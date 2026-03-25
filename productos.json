@@ -39,18 +39,6 @@
         {
           "label": "Goose",
           "key": "GOOSE"
-        },
-        {
-          "label": "Leffe",
-          "key": "LEFFE"
-        },
-        {
-          "label": "Franziskaner",
-          "key": "FRANZISK"
-        },
-        {
-          "label": "Hoegaarden",
-          "key": "HOEGAARD"
         }
       ]
     },
@@ -75,12 +63,20 @@
           "key": "H2OH"
         },
         {
-          "label": "Guaraná",
-          "key": "GUAR"
-        },
-        {
           "label": "PDT",
           "key": "PDT"
+        },
+        {
+          "key": "GATORADE",
+          "label": "Gatorade"
+        },
+        {
+          "key": "ROCKSTAR",
+          "label": "Rockstar"
+        },
+        {
+          "key": "REDBULL",
+          "label": "Red Bull"
         }
       ]
     },
@@ -99,22 +95,6 @@
         {
           "label": "NPV",
           "key": "NPV"
-        },
-        {
-          "label": "Gatorade",
-          "key": "GATORADE"
-        },
-        {
-          "label": "Rockstar",
-          "key": "ROCKSTAR"
-        },
-        {
-          "label": "Red Bull",
-          "key": "RED BULL"
-        },
-        {
-          "label": "Nestlé",
-          "key": "NESTLE"
         }
       ]
     },
@@ -123,36 +103,16 @@
       "color": "#d97aff",
       "brands": [
         {
-          "label": "Sidra 1930",
-          "key": "1930"
-        },
-        {
-          "label": "Del Valle",
-          "key": "DEL VALLE"
-        },
-        {
-          "label": "Malbec",
-          "key": "MALBEC"
-        },
-        {
-          "label": "Dante",
-          "key": "DANTE"
-        },
-        {
           "label": "Novecento",
           "key": "NOVECENTO"
         },
         {
-          "label": "Robino",
-          "key": "ROBINO"
+          "key": "DANTE ROBINO",
+          "label": "Dante Robino"
         },
         {
-          "label": "Mike's Hard",
-          "key": "MIKE"
-        },
-        {
-          "label": "Striptiz",
-          "key": "STRIPTIZ"
+          "key": "CALLIA",
+          "label": "Callia"
         }
       ]
     },
@@ -169,24 +129,8 @@
           "key": "VODKA"
         },
         {
-          "label": "Fernet",
-          "key": "FERNET"
-        },
-        {
-          "label": "Campari",
-          "key": "CAMPARI"
-        },
-        {
-          "label": "Aperol",
-          "key": "APEROL"
-        },
-        {
           "label": "Jäger",
           "key": "JAGER"
-        },
-        {
-          "label": "Martini",
-          "key": "MARTINI"
         }
       ]
     },
@@ -237,11 +181,36 @@
         {
           "label": "Arroz",
           "key": "ARROZ"
+        },
+        {
+          "key": "HARINA",
+          "label": "Harinas"
         }
       ]
     }
   ],
   "products": [
+    {
+      "sku": "46629",
+      "desc": "QUILMES CLASICA RET X12 1L MUND 2026",
+      "pisos": 5,
+      "packsPiso": 10,
+      "packsPaleta": 50
+    },
+    {
+      "sku": "44489",
+      "desc": "STELLA ARTOIS 0.0 SY CAN 4X6 473CC CART",
+      "pisos": 10,
+      "packsPiso": 10,
+      "packsPaleta": 100
+    },
+    {
+      "sku": "46587",
+      "desc": "GATORADE NS FRESA KIWI PET X6 400CC",
+      "pisos": 8,
+      "packsPiso": 48,
+      "packsPaleta": 384
+    },
     {
       "sku": "352.0",
       "desc": "BIB 7UP 20LTS",
@@ -9191,9 +9160,9 @@
     {
       "sku": "32.561",
       "desc": "QUILMES BAJO CERO CAN X6 473CC TT",
-      "pisos": null,
-      "packsPiso": null,
-      "packsPaleta": null
+      "pisos": 10,
+      "packsPiso": 40,
+      "packsPaleta": 400
     },
     {
       "sku": "47.627",
@@ -9254,9 +9223,9 @@
     {
       "sku": "46.767",
       "desc": "QUILMES 0.0 CAN X6 473CC MUND 2026",
-      "pisos": null,
-      "packsPiso": null,
-      "packsPaleta": null
+      "pisos": 10,
+      "packsPiso": 40,
+      "packsPaleta": 400
     },
     {
       "sku": "46.648",
@@ -9303,16 +9272,16 @@
     {
       "sku": "46.729",
       "desc": "GATORADE NS MORAS PET X6 400CC",
-      "pisos": null,
-      "packsPiso": null,
-      "packsPaleta": null
+      "pisos": 8,
+      "packsPiso": 48,
+      "packsPaleta": 384
     },
     {
       "sku": "47.067",
       "desc": "CORONA 0.0 CAN X6 473CC CART",
-      "pisos": null,
-      "packsPiso": null,
-      "packsPaleta": null
+      "pisos": 10,
+      "packsPiso": 40,
+      "packsPaleta": 400
     }
   ]
 }
