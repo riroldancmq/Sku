@@ -332,28 +332,28 @@
     },
     {
       "sku": "1.413",
-      "desc": "GT NAR 500 PET 6",
+      "desc": "GATORADE NAR 500 PET 6",
       "pisos": 7,
       "packsPiso": 45,
       "packsPaleta": 315
     },
     {
       "sku": "1.414",
-      "desc": "GT L-L 500 PET 6",
+      "desc": "GATORADE L-L 500 PET 6",
       "pisos": 7,
       "packsPiso": 45,
       "packsPaleta": 315
     },
     {
       "sku": "1.416",
-      "desc": "GT MAN PET 500 6",
+      "desc": "GATORADE MAN PET 500 6",
       "pisos": 7,
       "packsPiso": 45,
       "packsPaleta": 315
     },
     {
       "sku": "1.418",
-      "desc": "GT CBL PET 500 6",
+      "desc": "GATORADE CBL PET 500 6",
       "pisos": 7,
       "packsPiso": 45,
       "packsPaleta": 315
@@ -367,21 +367,21 @@
     },
     {
       "sku": "1.424",
-      "desc": "GTNAR 1.25PET 6",
+      "desc": "GATORADE NAR 1.25PET 6",
       "pisos": 4,
       "packsPiso": 22,
       "packsPaleta": 88
     },
     {
       "sku": "1.425",
-      "desc": "GTMAN 1.25PET 6",
+      "desc": "GATORADE MAN 1.25PET 6",
       "pisos": 4,
       "packsPiso": 22,
       "packsPaleta": 88
     },
     {
       "sku": "1.426",
-      "desc": "GTFTR 1.25PET 6",
+      "desc": "GATORADE FTR 1.25PET 6",
       "pisos": 4,
       "packsPiso": 22,
       "packsPaleta": 88
