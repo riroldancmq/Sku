@@ -39,18 +39,6 @@
         {
           "label": "Goose",
           "key": "GOOSE"
-        },
-        {
-          "label": "Leffe",
-          "key": "LEFFE"
-        },
-        {
-          "label": "Franziskaner",
-          "key": "FRANZISK"
-        },
-        {
-          "label": "Hoegaarden",
-          "key": "HOEGAARD"
         }
       ]
     },
@@ -75,12 +63,8 @@
           "key": "H2OH"
         },
         {
-          "label": "Guaraná",
-          "key": "GUAR"
-        },
-        {
-          "label": "Tónica",
-          "key": "TONIC"
+          "key": "PDT",
+          "label": "PDT"
         }
       ]
     },
@@ -99,22 +83,6 @@
         {
           "label": "NPV",
           "key": "NPV"
-        },
-        {
-          "label": "Gatorade",
-          "key": "GATORADE"
-        },
-        {
-          "label": "Rockstar",
-          "key": "ROCKSTAR"
-        },
-        {
-          "label": "Red Bull",
-          "key": "RED BULL"
-        },
-        {
-          "label": "Nestlé",
-          "key": "NESTLE"
         }
       ]
     },
@@ -122,18 +90,6 @@
       "label": "VINO",
       "color": "#d97aff",
       "brands": [
-        {
-          "label": "Sidra 1930",
-          "key": "1930"
-        },
-        {
-          "label": "Del Valle",
-          "key": "DEL VALLE"
-        },
-        {
-          "label": "Malbec",
-          "key": "MALBEC"
-        },
         {
           "label": "Dante",
           "key": "DANTE"
@@ -145,14 +101,6 @@
         {
           "label": "Robino",
           "key": "ROBINO"
-        },
-        {
-          "label": "Mike's Hard",
-          "key": "MIKE"
-        },
-        {
-          "label": "Striptiz",
-          "key": "STRIPTIZ"
         }
       ]
     },
@@ -169,24 +117,8 @@
           "key": "VODKA"
         },
         {
-          "label": "Fernet",
-          "key": "FERNET"
-        },
-        {
-          "label": "Campari",
-          "key": "CAMPARI"
-        },
-        {
-          "label": "Aperol",
-          "key": "APEROL"
-        },
-        {
           "label": "Jäger",
           "key": "JAGER"
-        },
-        {
-          "label": "Martini",
-          "key": "MARTINI"
         }
       ]
     },
@@ -237,6 +169,10 @@
         {
           "label": "Arroz",
           "key": "ARROZ"
+        },
+        {
+          "key": "HARINA",
+          "label": "Harina"
         }
       ]
     }
@@ -412,7 +348,7 @@
     },
     {
       "sku": "1.422",
-      "desc": "FIER UVA 500 PET 6",
+      "desc": "GATORADE UVA 500 PET 6",
       "pisos": 7,
       "packsPiso": 45,
       "packsPaleta": 315
