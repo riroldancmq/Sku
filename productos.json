@@ -65,6 +65,18 @@
         {
           "key": "PDT",
           "label": "PDT"
+        },
+        {
+          "key": "GATORADE",
+          "label": "Gatorade"
+        },
+        {
+          "key": "ROCKSTAR",
+          "label": "Rockstar"
+        },
+        {
+          "key": "RED BULL",
+          "label": "Red Bull"
         }
       ]
     },
