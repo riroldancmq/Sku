@@ -1539,11 +1539,19 @@ function renderFiltrosPanel() {
     const header = document.createElement('div');
     header.style.cssText = 'display:flex;align-items:center;gap:8px;padding:11px 14px';
 
-    const swatch = document.createElement('input');
-    swatch.type = 'color';
-    swatch.value = grupo.color;
-    swatch.dataset.field = 'color';
-    swatch.style.cssText = 'width:26px;height:26px;border-radius:6px;border:1.5px solid #3e3e52;padding:1px;cursor:pointer;flex-shrink:0';
+    // Swatch: div coloreado sobre input color oculto
+    const swatchWrap = document.createElement('div');
+    swatchWrap.style.cssText = 'position:relative;width:28px;height:28px;flex-shrink:0;cursor:pointer';
+    const swatchDiv = document.createElement('div');
+    swatchDiv.style.cssText = 'width:28px;height:28px;border-radius:7px;background:'+grupo.color+';border:2.5px solid rgba(255,255,255,0.18);pointer-events:none';
+    const colorPicker = document.createElement('input');
+    colorPicker.type = 'color';
+    colorPicker.value = grupo.color;
+    colorPicker.dataset.field = 'color';
+    colorPicker.style.cssText = 'position:absolute;inset:0;opacity:0;width:100%;height:100%;cursor:pointer;border:none;padding:0';
+    colorPicker.oninput = e => { swatchDiv.style.background = e.target.value; };
+    swatchWrap.appendChild(swatchDiv);
+    swatchWrap.appendChild(colorPicker);
 
     const nombreInput = document.createElement('input');
     nombreInput.value = grupo.label;
@@ -1557,7 +1565,7 @@ function renderFiltrosPanel() {
     const btnDel = document.createElement('button');
     btnDel.textContent = '🗑';
     btnDel.title = 'Eliminar grupo';
-    btnDel.style.cssText = 'background:none;border:none;color:#ff6060;cursor:pointer;font-size:16px;padding:2px 5px;flex-shrink:0';
+    btnDel.style.cssText = 'background:rgba(255,96,96,0.12);border:1.5px solid rgba(255,96,96,0.3);border-radius:7px;color:#ff6060;cursor:pointer;font-size:14px;padding:5px 8px;flex-shrink:0';
     btnDel.onclick = () => {
       const idx = parseInt(card.dataset.gi);
       if (!confirm('¿Eliminar el grupo "' + FILTER_GROUPS[idx].label + '"?')) return;
@@ -1567,7 +1575,7 @@ function renderFiltrosPanel() {
       renderFiltrosPanel();
     };
 
-    header.appendChild(swatch);
+    header.appendChild(swatchWrap);
     header.appendChild(nombreInput);
     header.appendChild(count);
     header.appendChild(btnDel);
@@ -1595,7 +1603,7 @@ function renderFiltrosPanel() {
 
       const btnDelB = document.createElement('button');
       btnDelB.textContent = '✕';
-      btnDelB.style.cssText = 'background:none;border:none;color:#ff6060;cursor:pointer;font-size:14px;padding:2px 5px;flex-shrink:0';
+      btnDelB.style.cssText = 'background:rgba(255,96,96,0.12);border:1.5px solid rgba(255,96,96,0.3);border-radius:6px;color:#ff6060;cursor:pointer;font-size:13px;padding:4px 8px;flex-shrink:0';
       btnDelB.onclick = () => {
         const gIdx = parseInt(card.dataset.gi);
         const bIdx = parseInt(row.dataset.bi);
