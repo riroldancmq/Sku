@@ -936,6 +936,13 @@ function formatSku(sku) {
   return String(sku).replace(/\./g, '');
 }
 
+// ---- CONVERSIÓN SKU A NÚMERO PARA ORDENAR ----
+// Trata el punto como separador decimal (ej: "1.413" → 1.413, "352" → 352)
+function skuToNum(sku) {
+  if (!sku) return 0;
+  return parseFloat(String(sku).replace(',', '.')) || 0;
+}
+
 // ---- AUTENTICACIÓN DE ADMINISTRADOR ----
 const ADMIN_PASS = 'cdmercado26';
 let isAdmin = false;
@@ -1493,10 +1500,12 @@ function saveProduct() {
 
   if (editIdx >= 0) {
     db[editIdx] = { sku, desc, pisos, packsPiso, packsPaleta };
+    db.sort((a, b) => skuToNum(a.sku) - skuToNum(b.sku));
     showToast('✅ Actualizado · Exportá el JSON para guardar');
   } else {
     if (db.find(p => p.sku === sku)) { showToast('⚠️ Ya existe ese SKU'); return; }
-    db.unshift({ sku, desc, pisos, packsPiso, packsPaleta });
+    db.push({ sku, desc, pisos, packsPiso, packsPaleta });
+    db.sort((a, b) => skuToNum(a.sku) - skuToNum(b.sku));
     showToast('✅ Agregado · Exportá el JSON para guardar');
   }
   saveData();
