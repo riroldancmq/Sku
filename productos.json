@@ -191,6 +191,13 @@
   ],
   "products": [
     {
+      "sku": "11522",
+      "desc": "GATORADE FRUT TROP 500CC",
+      "pisos": 7,
+      "packsPiso": 45,
+      "packsPaleta": 315
+    },
+    {
       "sku": "899",
       "desc": "GLACIAR 2 LTS S",
       "pisos": 5,
