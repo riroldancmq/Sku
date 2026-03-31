@@ -8885,6 +8885,27 @@
       "packsPaleta": 90
     },
     {
+      "sku": "46.631",
+      "desc": "QUILMES STOUT RET X12 1L MUND 2026",
+      "pisos": 5,
+      "packsPiso": 10,
+      "packsPaleta": 50
+    },
+    {
+      "sku": "46.630",
+      "desc": "QUILMES IPA RET X12 1L MUND 2026",
+      "pisos": 5,
+      "packsPiso": 10,
+      "packsPaleta": 50
+    },
+    {
+      "sku": "46.647",
+      "desc": "QUILMES IPA CAN 4X6 473CC MUND 2026",
+      "pisos": 10,
+      "packsPiso": 10,
+      "packsPaleta": 100
+    },
+    {
       "sku": "78.286",
       "desc": "COMBO SALADO CEBOL+CHEDAR HANKS X12 110GR",
       "pisos": 15,
