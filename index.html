@@ -859,7 +859,7 @@
         <div class="stat-lbl">Bultos Paleta Completa</div>
       </div>
       <div class="stat-card" id="statPesoContainer" style="display:none">
-        <div class="stat-val" id="mPesoPaleta">—</div>
+        <div class="stat-val" id="mPesoPaleta" style="color:#378add">—</div>
         <div class="stat-lbl">Peso por Paleta</div>
       </div>
     </div>
@@ -1338,8 +1338,8 @@ function openDetail(idx) {
   document.getElementById('mPacksPaleta').textContent = p.packsPaleta != null ? p.packsPaleta : '—';
   const pesoContainer = document.getElementById('statPesoContainer');
   if (p.pesoPaleta != null) {
-    document.getElementById('mPesoPaleta').innerHTML = '<span style="color:#378add">' + p.pesoPaleta.toFixed(3) + '</span> kg';
-    pesoContainer.style.display = 'flex';
+    document.getElementById('mPesoPaleta').textContent = p.pesoPaleta.toFixed(3) + ' kg';
+    pesoContainer.style.display = 'block';
   } else {
     pesoContainer.style.display = 'none';
   }
