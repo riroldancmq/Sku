@@ -195,119 +195,136 @@
       "desc": "GLACIAR 2 LTS S",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.28
     },
     {
       "sku": "898",
       "desc": "GLACIAR 2 LTS S/G X 6 - 88 BULTOS -",
       "pisos": 4,
       "packsPiso": 22,
-      "packsPaleta": 88
+      "packsPaleta": 88,
+      "pesoPaleta": 1.28
     },
     {
       "sku": "873",
       "desc": "GLA SG500x12 09",
       "pisos": 7,
       "packsPiso": 26,
-      "packsPaleta": 182
+      "packsPaleta": 182,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "871",
       "desc": "GLA SG 1.5x6 09",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "870",
       "desc": "GLAC C/G 1,5X6",
       "pisos": 5,
       "packsPiso": 25,
-      "packsPaleta": 125
+      "packsPaleta": 125,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "855",
       "desc": "QS1890 LNX6 340",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "822",
       "desc": "7 UP 2,25X8 PET",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "816",
       "desc": "MIR NAR MED 350 24",
       "pisos": 6,
       "packsPiso": 10,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "813",
       "desc": "PDT TON MED 350 24",
       "pisos": 6,
       "packsPiso": 10,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "811",
       "desc": "7UP MED 350 24",
       "pisos": 6,
       "packsPiso": 10,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "810",
       "desc": "PEPSI LHT MED 350 24",
       "pisos": 6,
       "packsPiso": 10,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "808",
       "desc": "PEPSI MED 350cc",
       "pisos": 6,
       "packsPiso": 10,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "691",
       "desc": "MIR NAR 500 X 12 PET",
       "pisos": 7,
       "packsPiso": 24,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "659",
       "desc": "PEPSI LIGHT 2.25 x8PET",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "641",
       "desc": "MIR NARANJA LATA 6x4",
       "pisos": 12,
       "packsPiso": 10,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "627",
       "desc": "MIR NAR 2,25X8",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "591",
       "desc": "MIRMANZ2,25PET8",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "353",
@@ -335,105 +352,120 @@
       "desc": "GATORADE NAR 500 PET 6",
       "pisos": 7,
       "packsPiso": 45,
-      "packsPaleta": 315
+      "packsPaleta": 315,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "1.414",
       "desc": "GATORADE L-L 500 PET 6",
       "pisos": 7,
       "packsPiso": 45,
-      "packsPaleta": 315
+      "packsPaleta": 315,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "1.416",
       "desc": "GATORADE MAN PET 500 6",
       "pisos": 7,
       "packsPiso": 45,
-      "packsPaleta": 315
+      "packsPaleta": 315,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "1.418",
       "desc": "GATORADE CBL PET 500 6",
       "pisos": 7,
       "packsPiso": 45,
-      "packsPaleta": 315
+      "packsPaleta": 315,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "1.422",
       "desc": "GATORADE UVA 500 PET 6",
       "pisos": 7,
       "packsPiso": 45,
-      "packsPaleta": 315
+      "packsPaleta": 315,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "1.424",
       "desc": "GATORADE NAR 1.25PET 6",
       "pisos": 4,
       "packsPiso": 22,
-      "packsPaleta": 88
+      "packsPaleta": 88,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "1.425",
       "desc": "GATORADE MAN 1.25PET 6",
       "pisos": 4,
       "packsPiso": 22,
-      "packsPaleta": 88
+      "packsPaleta": 88,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "1.426",
       "desc": "GATORADE FTR 1.25PET 6",
       "pisos": 4,
       "packsPiso": 22,
-      "packsPaleta": 88
+      "packsPaleta": 88,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "1.427",
       "desc": "7UP FREE2.25x8P",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "1.433",
       "desc": "H2OH 500 CITRUS",
       "pisos": 7,
       "packsPiso": 24,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "1.461",
       "desc": "7UP FREE500x12P",
       "pisos": 7,
       "packsPiso": 24,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "1.466",
       "desc": "7UPFREE LATA 24",
       "pisos": 12,
       "packsPiso": 10,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "1.473",
       "desc": "PTPOM 2,25X8PET8",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "1.483",
       "desc": "POM 500 PET12",
       "pisos": 7,
       "packsPiso": 24,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "1.486",
       "desc": "PTPOM 350 24",
       "pisos": 6,
       "packsPiso": 10,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "1.495",
@@ -447,112 +479,128 @@
       "desc": "H2OH 2.25 LL x8",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "1.659",
       "desc": "H2OH 2.25 CITx8",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "2.006",
       "desc": "1/1 Q.C USH 6",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "2.110",
       "desc": "1/3LT QUILMES24",
       "pisos": 6,
       "packsPiso": 10,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "2.117",
       "desc": "1/2 QUIL CLASICA LATA X24",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "2.201",
       "desc": "1/2 LATA QUILMES  6 U",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "2.202",
       "desc": "1/3 LATA Q CRISTAL 6",
       "pisos": 13,
       "packsPiso": 40,
-      "packsPaleta": 520
+      "packsPaleta": 520,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "2.216",
       "desc": "1/2LT QUILMES 4x6 ROCK",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "2.218",
       "desc": "1/2 LATA QUILMES",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "2.428",
       "desc": "ECO 1.5L C/G 09",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "2.439",
       "desc": "ECO S/G 1.5X6",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "2.507",
       "desc": "20L BARR ST AR",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 206.0
     },
     {
       "sku": "2.554",
       "desc": "Q.C BARRIL 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 206.0
     },
     {
       "sku": "2.555",
       "desc": "BARRIL KEG. 50 Lts. CRISTAL",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 411.0
     },
     {
       "sku": "2.569",
       "desc": "BARRIL KEG 20 Lts. BOCK",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 206.0
     },
     {
       "sku": "2.854",
       "desc": "1/1 ST PREM 12 CR",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "2.873",
@@ -566,686 +614,784 @@
       "desc": "NPV SG PET x06_2.25L",
       "pisos": 5,
       "packsPiso": 20,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "6.582",
       "desc": "BRAH_RET_x24_0,340L",
       "pisos": 7,
       "packsPiso": 10,
-      "packsPaleta": 70
+      "packsPaleta": 70,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "7.026",
       "desc": "1/1Q CRIS GB12R",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "7.028",
       "desc": "1/1QBC GB12 RET",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "7.030",
       "desc": "1/1Q STO GB12RE",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "7.031",
       "desc": "1/1Q BOCK GB12R",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "7.035",
       "desc": "1/1 BRAHGB X12R",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "7.038",
       "desc": "1/1BR GB12 RQA",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "7.108",
       "desc": "1/1QUI 1890 GB",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "7.126",
       "desc": "1/1 STELL NOI12",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "7.161",
       "desc": "1/3 QC 340CCX24",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "7.463",
       "desc": "H2OH 1.5 LIMONE",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "7.464",
       "desc": "H2OH MARACU x06 1.5L PET",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "7.465",
       "desc": "H2OH CITR1.5LX6",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "7.466",
       "desc": "H2OH L L 1.5 X6",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "7.468",
       "desc": "H2O NACH 1.5LX6",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "7.475",
       "desc": "PT POM 1.5PET 6",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "7.476",
       "desc": "PDT TONIC PETX6",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "7.634",
       "desc": "1/2 BRAHMA LATA 4 X 6",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "7.651",
       "desc": "1/2 BRAHMA LATA  X 6",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "7.707",
       "desc": "1/2LT BRA PRx24",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "7.713",
       "desc": "QS RET X24 340C",
       "pisos": 7,
       "packsPiso": 10,
-      "packsPaleta": 70
+      "packsPaleta": 70,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "8.064",
       "desc": "GLACI S/G 1.5X6",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "8.101",
       "desc": "MIR NAR PET3LX6",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "10.575",
       "desc": "ST AR OWX24 330 NIV",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "10.576",
       "desc": "ST AR OW4X6 330 NIB",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "10.810",
       "desc": "MIR MANZANA PET X6 3,000 L",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "10.969",
       "desc": "PATAGONIA AMBER BARRIL 0 20 L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 206.0
     },
     {
       "sku": "10.970",
       "desc": "PATAGONIA BOHEMIAN BARRIL  20 L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 206.0
     },
     {
       "sku": "10.971",
       "desc": "PATAGONIA WEISSE BARRIL  20 L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 206.0
     },
     {
       "sku": "11.522",
       "desc": "GATORADE FRUT TROP 500CC",
       "pisos": 7,
       "packsPiso": 45,
-      "packsPaleta": 315
+      "packsPaleta": 315,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "11.743",
       "desc": "PATA AMBER RET KEG 0 30 L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.275
     },
     {
       "sku": "11.755",
       "desc": "PATA WEISSE RET KEG 30L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.275
     },
     {
       "sku": "11.793",
       "desc": "QUILMES STOUT OW X6 1000 TDF CREP",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "11.945",
       "desc": "LEFF RUBY OW 24 0,33L WRA",
       "pisos": 6,
       "packsPiso": 12,
-      "packsPaleta": 72
+      "packsPaleta": 72,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "12.154",
       "desc": "PAT AMBER SLIM 20 L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "12.158",
       "desc": "STELLA ARTOIS SLIMKEG 0 20 L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "12.161",
       "desc": "PATAGONIA WEISSE SLIMKEG 0 20 L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "12.165",
       "desc": "PATAGONIA BOHEMIAN SLIMKEG 0 20 L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "12.204",
       "desc": "PATAGONIA IPA SAUCO OW X12 355",
       "pisos": 7,
       "packsPiso": 22,
-      "packsPaleta": 154
+      "packsPaleta": 154,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "12.723",
       "desc": "PATAGONIA SLIMKEG 0 20 L IPA CON SAUCO",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "13.224",
       "desc": "Q 1890 4X6 L473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "13.404",
       "desc": "BRAHMA CHOPP CAN 1X12 473 ML SHR EXP ESP",
       "pisos": 10,
       "packsPiso": 22,
-      "packsPaleta": 220
+      "packsPaleta": 220,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "13.502",
       "desc": "ST ART 4X6 L473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "13.503",
       "desc": "STOUT L473 4X6",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "13.504",
       "desc": "PATAGONIA IPA SAUCO EUROKEG 0 20 L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "13.630",
       "desc": "QUILMES STOUT RET X24 340 CAJON",
       "pisos": 7,
       "packsPiso": 10,
-      "packsPaleta": 70
+      "packsPaleta": 70,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "13.950",
       "desc": "P BLACK X8 2250",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "13.952",
       "desc": "P BLACK 4X6 354",
       "pisos": 12,
       "packsPiso": 10,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "13.953",
       "desc": "PEPSI BLACK 500",
       "pisos": 7,
       "packsPiso": 24,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "14.094",
       "desc": "AWAF NAR-DUR PET X6 1.65L PN",
       "pisos": 4,
       "packsPiso": 28,
-      "packsPaleta": 112
+      "packsPaleta": 112,
+      "pesoPaleta": 1.087
     },
     {
       "sku": "14.097",
       "desc": "AWAF MANZANA PET X6 BSA 1.65L PN",
       "pisos": 4,
       "packsPiso": 28,
-      "packsPaleta": 112
+      "packsPaleta": 112,
+      "pesoPaleta": 1.087
     },
     {
       "sku": "14.100",
       "desc": "AWAF POMELO PET X06 2.250L PN",
       "pisos": 4,
       "packsPiso": 20,
-      "packsPaleta": 80
+      "packsPaleta": 80,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "14.101",
       "desc": "AWA NAR-DUR PET X6 2.250 L PN",
       "pisos": 4,
       "packsPiso": 20,
-      "packsPaleta": 80
+      "packsPaleta": 80,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "14.190",
       "desc": "H2OH CITRUS CAN 4X6 354",
       "pisos": 12,
       "packsPiso": 10,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "14.191",
       "desc": "PEPSI BLACK 1500X6",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "14.195",
       "desc": "QUILMES 1890 CAN X6 473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "14.196",
       "desc": "PEPSI BLACK PET X9 0",
       "pisos": 9,
       "packsPiso": 42,
-      "packsPaleta": 378
+      "packsPaleta": 378,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "14.221",
       "desc": "STELLA ARTOIS CAN X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "14.622",
       "desc": "7-UP FREE PET X8 2000 RECO",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "14.624",
       "desc": "GATORADE COOL BLUE PET X6 750 204",
       "pisos": 6,
       "packsPiso": 34,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "14.625",
       "desc": "GATORADE MANZANA PET X6 750 204",
       "pisos": 6,
       "packsPiso": 34,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "14.638",
       "desc": "GATORADE FRUTAS TROP PET X6 750 204",
       "pisos": 6,
       "packsPiso": 34,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "14.933",
-      "desc": "ECO DE LOS X12",
+      "desc": "ECO DE LOS X12 500cc S/G",
       "pisos": 7,
       "packsPiso": 29,
-      "packsPaleta": 203
+      "packsPaleta": 203,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "14.934",
       "desc": "ECO DE LOS ANDES CG PET X12 500 MIX 203",
       "pisos": 7,
       "packsPiso": 29,
-      "packsPaleta": 203
+      "packsPaleta": 203,
+      "pesoPaleta": 1.243
     },
     {
       "sku": "14.938",
       "desc": "ECO DE LOS ANDES SG PET X6 2000 PR 92 PC",
       "pisos": 4,
       "packsPiso": 23,
-      "packsPaleta": 92
+      "packsPaleta": 92,
+      "pesoPaleta": 1.28
     },
     {
       "sku": "15.094",
       "desc": "QUILMES STOUT CAN X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "15.159",
       "desc": "PATA IPA SAUCO 30L keg",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.275
     },
     {
       "sku": "15.163",
       "desc": "GLACIAR ADM PET BIDON 6.3L X2",
       "pisos": 4,
       "packsPiso": 24,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 0.913
     },
     {
       "sku": "15.171",
       "desc": "STELLA ARTOIS CAN 4X6 269",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "15.234",
       "desc": "STELLA ARTOIS CAN 4X6 473 CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "15.238",
       "desc": "STELLA ARTOIS CAN X10 269",
       "pisos": 12,
       "packsPiso": 34,
-      "packsPaleta": 408
+      "packsPaleta": 408,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "15.243",
       "desc": "STELLA ART 30 L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "15.605",
       "desc": "BRAHMA CAN 4X6 473 PR",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "15.621",
       "desc": "PATAGONIA CAN 4X6 473 CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "15.624",
       "desc": "BRAHMA CAN 4X6 269",
       "pisos": 12,
       "packsPiso": 13,
-      "packsPaleta": 156
+      "packsPaleta": 156,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "16.137",
       "desc": "PEPSI BLACK CAN X6 354",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "16.225",
       "desc": "PATAGONIA AMBER CAN 4X6 473 CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "16.292",
       "desc": "PATA IPA CART CAN X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "16.315",
       "desc": "PATA 24.7 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "16.370",
       "desc": "RED X24 250",
       "pisos": 11,
       "packsPiso": 15,
-      "packsPaleta": 165
+      "packsPaleta": 165,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "16.371",
       "desc": "RED BULL 6X4",
       "pisos": 11,
       "packsPiso": 15,
-      "packsPaleta": 165
+      "packsPaleta": 165,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "16.372",
       "desc": "RED SUGAR 250",
       "pisos": 11,
       "packsPiso": 15,
-      "packsPaleta": 165
+      "packsPaleta": 165,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "16.375",
       "desc": "RED BULL 4X6",
       "pisos": 11,
       "packsPiso": 15,
-      "packsPaleta": 165
+      "packsPaleta": 165,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "16.398",
       "desc": "PATAGONIA IPA SAUCO RET KEG 0 50 L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.411
     },
     {
       "sku": "16.527",
       "desc": "RED BULL CAN X4",
       "pisos": 11,
       "packsPiso": 90,
-      "packsPaleta": 990
+      "packsPaleta": 990,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "16.528",
       "desc": "RED BULL CAN X6",
       "pisos": 11,
       "packsPiso": 60,
-      "packsPaleta": 660
+      "packsPaleta": 660,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "16.529",
       "desc": "RB FREE CAN X4",
       "pisos": 11,
       "packsPiso": 90,
-      "packsPaleta": 990
+      "packsPaleta": 990,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "16.666",
       "desc": "ANDES ORIGEN NEGRA RET X12 1000",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "16.667",
       "desc": "ANDES ORIGEN ROJA RET X12 1000",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "16.668",
       "desc": "ANDES ORIGEN RUBIA RET X12 1000",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "16.708",
       "desc": "FRANZISKANER OW X24 500 CREP",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "16.768",
       "desc": "PATAGONIA AMBER CAN X6 473 CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "16.811",
       "desc": "ANDES ORIGEN RUBIA CAN 4X6 473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "16.813",
       "desc": "AND RUB X24 473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "16.936",
       "desc": "ANDES ORIGEN RUBIA CAN X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "16.951",
       "desc": "BUDWEISER OW X6 710",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "16.986",
       "desc": "BOCK 473 4X6",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "17.081",
@@ -1259,280 +1405,320 @@
       "desc": "ANDES CAN 4X6 473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "17.360",
       "desc": "QUILMES BOCK CAN X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "17.630",
       "desc": "FRANZISKANER OW X20 500 CREP",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "17.869",
       "desc": "STELLA ARTOIS CAN X6 473 CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "17.922",
       "desc": "ECO DE LOS ANDES SG RET X20 500 PR 60 PC",
       "pisos": 6,
       "packsPiso": 10,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "17.923",
       "desc": "ECO DE LOS ANDES CG RET X20 500 PR 60 PC",
       "pisos": 6,
       "packsPiso": 10,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.243
     },
     {
       "sku": "17.932",
       "desc": "ANDES ORIGEN ROJA CAN 4X6 473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "17.933",
       "desc": "ANDES ORIGEN NEGRA CAN 4X6 473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "17.952",
       "desc": "GUARANÁ SIN AZÚCAR PET X6 1500",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "17.953",
       "desc": "GUARANÁ SIN AZÚCAR PET X8 2250",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "17.954",
       "desc": "GUA AZU 4X6 354",
       "pisos": 12,
       "packsPiso": 10,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "17.991",
       "desc": "ANDES ORIGEN ROJA CAN X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "17.993",
       "desc": "ANDES ORIGEN NEGRA CAN X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "18.066",
       "desc": "GLACIAR 0.5 LTS PET X12 500",
       "pisos": 7,
       "packsPiso": 29,
-      "packsPaleta": 203
+      "packsPaleta": 203,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "18.354",
       "desc": "PATAGONIA IPA OW X6 730",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.15
     },
     {
       "sku": "18.355",
       "desc": "PATAGONIA AMBER OW X6 730",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.15
     },
     {
       "sku": "18.360",
       "desc": "PATAGONIA KUNE OW X6 730",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.15
     },
     {
       "sku": "18.361",
       "desc": "PATAGONIA WEISSE OW X6 730",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.15
     },
     {
       "sku": "18.377",
       "desc": "PATAGONIA BOHEMIAN OW X6 730",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.15
     },
     {
       "sku": "18.560",
       "desc": "MIRINDA NARANJA CAN 4X6 354 NF",
       "pisos": 12,
       "packsPiso": 10,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "18.561",
       "desc": "MIRINDA NARANJA PET X6 3000 NF",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "18.563",
       "desc": "RED BUL X4 250",
       "pisos": 11,
       "packsPiso": 90,
-      "packsPaleta": 990
+      "packsPaleta": 990,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "18.565",
       "desc": "MIR NAR X6 1.5L",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "18.587",
       "desc": "PAT AMB 4X6 473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "18.593",
       "desc": "ANDES ORIGEN ROJA RET X24 340",
       "pisos": 7,
       "packsPiso": 10,
-      "packsPaleta": 70
+      "packsPaleta": 70,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "18.676",
       "desc": "PATA AMB X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "18.680",
       "desc": "BRAHMA CAN X12 473",
       "pisos": 10,
       "packsPiso": 22,
-      "packsPaleta": 220
+      "packsPaleta": 220,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "18.681",
       "desc": "PATAGONIA WEISSE CAN X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "18.694",
       "desc": "NPV SG PET X12 500 PR 0.5L S/G",
       "pisos": 7,
       "packsPiso": 29,
-      "packsPaleta": 203
+      "packsPaleta": 203,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "18.743",
       "desc": "NPV SG PET X6 1500 PR 1.5L S/G",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "18.744",
       "desc": "NV SG PETX6 2.5",
       "pisos": 5,
       "packsPiso": 20,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "18.745",
       "desc": "NPV SG PET 6.3L PR 3 PISOS",
       "pisos": 3,
       "packsPiso": 24,
-      "packsPaleta": 72
+      "packsPaleta": 72,
+      "pesoPaleta": 0.913
     },
     {
       "sku": "18.746",
       "desc": "NPV SG PET 6.3L PR 4 PISOS",
       "pisos": 4,
       "packsPiso": 24,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 0.913
     },
     {
       "sku": "19.019",
       "desc": "BUD RET X12 1000 CMQ",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.135
     },
     {
       "sku": "19.026",
       "desc": "BUD CAN 4X6 473 CMQ x 100",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "19.086",
       "desc": "PEPSI PET X6 1500 NF",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "19.087",
       "desc": "PEP 2250 X8 NF",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "19.088",
       "desc": "PEPSI RECO PET X8 2000 NF",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "19.089",
       "desc": "PEPSI PET X6 3000 NF",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "19.090",
       "desc": "CORO OW 4X6 210",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "19.193",
@@ -1546,560 +1732,640 @@
       "desc": "ANDES ORIGEN IPA RET X12 1000",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "19.254",
       "desc": "ANDES ORIGEN IPA CAN 4X6 473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "19.259",
       "desc": "BUD CAN X6 473 CMQ",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "19.336",
       "desc": "7-UP PET X12 500 NF",
       "pisos": 7,
       "packsPiso": 24,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "19.337",
       "desc": "7-UP PET X6 1500 NF",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "19.338",
       "desc": "7-UP PET X8 2250 NF",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "19.339",
       "desc": "7-UP PET X6 3000 NF",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "19.341",
       "desc": "7-UP RECO X8 2000 NF",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "19.348",
       "desc": "BUD 4X6 473PROM",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "19.366",
       "desc": "PATAGONIA WEISSE CAN 4X6 473 TRANSP",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "19.399",
       "desc": "ANDES ORIGEN IPA CAN X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "19.494",
       "desc": "PAT WEIS X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "19.498",
       "desc": "PATAGONIA WEISSE CAN 4X6 473 CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "19.529",
       "desc": "PATAGONIA FERNANDEZ IPA CAN 4X6 473 CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "19.534",
       "desc": "QUI RL 4X6 473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "19.539",
       "desc": "ANDES ORIGEN ROJA EURO KEG 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "19.545",
       "desc": "ANDES OR RUBIA 20L EURO KEG",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "19.586",
       "desc": "PATAGONIA F IPA CAN X6 473 CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "19.587",
       "desc": "QUILMES RED LAGER CAN X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "19.857",
       "desc": "LA VIRGEN JAMONERA OW X24 330",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "20.358",
       "desc": "PATAGONIA BOHEMIAN CAN 4X6 0473L CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "20.360",
       "desc": "PATAGONIA KUNE CAN 4X6 473 CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "20.412",
       "desc": "CORONA OW 6X4 330",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "20.433",
       "desc": "CORONA OW X12 710",
       "pisos": 6,
       "packsPiso": 14,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "20.471",
       "desc": "PATAGONIA HOPPY LAGER OW X6 730",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.15
     },
     {
       "sku": "20.674",
       "desc": "BIRRA DEL BORGO REAL OW X24 330CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "20.679",
       "desc": "BIRRA DEL BORGO REEXTRA OW X24 330ML",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "20.746",
       "desc": "PATAGONIA HOPPY LAGER EURO KEGE20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "20.751",
       "desc": "MIX AO RUB+QUI (6+6) 1000",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "20.808",
       "desc": "PAT VERA IPA CAN 4x6 473",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "20.987",
       "desc": "PATAGONIA VERA IPA EURO KEG 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "20.991",
       "desc": "PATAGONIA VERA IPA SLIM KEG 20L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "20.992",
       "desc": "PAT VERA IPA X6 473",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "20.994",
       "desc": "PATAGONIA BOHEMIAN CAN X6 0473 CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "20.996",
       "desc": "PATAGONIA KUNE CAN X6 473 CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "20.998",
       "desc": "BUDWEISER RET X12 1000 PR",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.135
     },
     {
       "sku": "20.999",
       "desc": "AO RUBIA CAN 4X6 473 TRANSP",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "21.001",
       "desc": "AO ROJA CAN 4X6 473 TRANSP",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "21.014",
       "desc": "ECO DE LOS ANDES SG PET X6 2000 PR 115 P",
       "pisos": 5,
       "packsPiso": 23,
-      "packsPaleta": 115
+      "packsPaleta": 115,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "21.048",
       "desc": "PATAGONIA KUNE CAN X6 473 TRANSP",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "21.049",
       "desc": "PATAGONIA BOHEMIAN CAN X6 473 TR",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "21.293",
       "desc": "ECO PREMIUM CG PET X12 500 PR 175",
       "pisos": 7,
       "packsPiso": 25,
-      "packsPaleta": 175
+      "packsPaleta": 175,
+      "pesoPaleta": 1.243
     },
     {
       "sku": "21.680",
       "desc": "BUDWEISER RET X24 340 PR",
       "pisos": 6,
       "packsPiso": 10,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "21.683",
       "desc": "CORONA OW X6 330",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "21.698",
       "desc": "PDTOROS TONICA CAN 4X6 269",
       "pisos": 10,
       "packsPiso": 13,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "21.699",
       "desc": "PDTOROS POM CAN 4X6 269cc",
       "pisos": 12,
       "packsPiso": 13,
-      "packsPaleta": 156
+      "packsPaleta": 156,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "21.772",
       "desc": "BRAHMA CAN X6 473 PR",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "21.793",
       "desc": "ANDES ORIGEN ROJA CAN 4X6 410CC TRANSPAR",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "21.810",
       "desc": "BUDWEISER CAN 4X6 410CC 6PACK",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "21.844",
       "desc": "PATAGONIA AMBER CAN 4X6 410CC 6P CART",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "21.847",
       "desc": "PATAGONIA BOHEMIAN CAN 4X6 410CC CART",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "21.849",
       "desc": "PATAGONIA VERA IPA CAN 4X6 410CC 6P CART",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "21.853",
       "desc": "PATAGONIA 24.7 CAN 4X6 410CC 6P CART",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "21.856",
       "desc": "PATAGONIA WEISSE CAN 4X6 410CC",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "21.862",
       "desc": "CORONA CAN 4X6 410CC GP CART",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "21.863",
       "desc": "CORONA CAN 4X6 269 CART",
       "pisos": 12,
       "packsPiso": 13,
-      "packsPaleta": 156
+      "packsPaleta": 156,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "21.864",
       "desc": "CORONA CAN 2X10 269 CART",
       "pisos": 12,
       "packsPiso": 17,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "21.866",
       "desc": "STELLA ARTOIS CAN 4X6 410CC 6P CART",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "21.867",
       "desc": "STELLA ARTOIS NOIRE CAN 4X6 410CC 6P CAR",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "21.902",
       "desc": "PATAGONIA WEISSE CAN X6 473 CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "21.919",
       "desc": "TEME WOLF SL 20",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "21.922",
       "desc": "TEMPLE WOLF IPA EURO KEG 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "21.935",
       "desc": "MIX AO RET X12 1LT 3NE+3RU+3RO+3IPA",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "21.965",
       "desc": "7UP 2450 X8 NF",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "21.965",
       "desc": "7-UP PET X8 2450 NF",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "21.966",
       "desc": "PEPSI COLA PET X08 2.45L NF",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "21.966",
       "desc": "PEPSI COLA PET X08 2.45L NF",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "21.967",
       "desc": "PEPSI CAN 4X6 354 NF",
       "pisos": 12,
       "packsPiso": 10,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "21.970",
       "desc": "7-UP NF PET X9 0,250 L",
       "pisos": 9,
       "packsPiso": 42,
-      "packsPaleta": 378
+      "packsPaleta": 378,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "21.971",
       "desc": "7UP L354 4X6 NF",
       "pisos": 12,
       "packsPiso": 10,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "21.972",
       "desc": "PEPSI NF PET X9 0,250 L",
       "pisos": 9,
       "packsPiso": 42,
-      "packsPaleta": 378
+      "packsPaleta": 378,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "21.973",
       "desc": "PEPSI NF PET X12 500",
       "pisos": 7,
       "packsPiso": 24,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "21.974",
       "desc": "PEPSI COLA RECO X8 2.25L",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.28
     },
     {
       "sku": "21.984",
       "desc": "ANDES ORIGEN IPA RET X24 340",
       "pisos": 7,
       "packsPiso": 10,
-      "packsPaleta": 70
+      "packsPaleta": 70,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "22.017",
       "desc": "PATAGONIA HOPPY LAGER CAN 2X10 269",
       "pisos": 12,
       "packsPiso": 17,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "22.055",
       "desc": "TRATENFU ALMENDRA X18 330",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "22.057",
       "desc": "TRAT ALM 1L X8",
       "pisos": 5,
       "packsPiso": 23,
-      "packsPaleta": 115
+      "packsPaleta": 115,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "22.062",
       "desc": "TRAT ALM VAI 1L",
       "pisos": 5,
       "packsPiso": 23,
-      "packsPaleta": 115
+      "packsPaleta": 115,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "22.064",
       "desc": "TRAT ALMCOCO 1L",
       "pisos": 5,
       "packsPiso": 23,
-      "packsPaleta": 115
+      "packsPaleta": 115,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "22.134",
       "desc": "PATAGONIA HOPPY LAGER CAN X10 269",
       "pisos": 12,
       "packsPiso": 34,
-      "packsPaleta": 408
+      "packsPaleta": 408,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "22.180",
@@ -2120,35 +2386,40 @@
       "desc": "RED BULL REGULAR CAN 4X6 355CC",
       "pisos": 9,
       "packsPiso": 13,
-      "packsPaleta": 117
+      "packsPaleta": 117,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "22.277",
       "desc": "EDLA PREMIUM PET X12 500 - 182 BULTOS",
       "pisos": 7,
       "packsPiso": 26,
-      "packsPaleta": 182
+      "packsPaleta": 182,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "22.278",
       "desc": "ECO DE LOS ANDES SG PET X12 500 - 203 PC",
       "pisos": 7,
       "packsPiso": 29,
-      "packsPaleta": 203
+      "packsPaleta": 203,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "22.293",
       "desc": "GOOSE IPA SLIM KEG 20L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "22.294",
       "desc": "GOOSE IPA EURO RET KEG 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "22.318",
@@ -2190,14 +2461,16 @@
       "desc": "FIANCEE EXTRA BRUT OW X6 750cc",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "22.326",
       "desc": "DANCER EXTRA BRUT OW X6 750cc",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "22.327",
@@ -2232,77 +2505,88 @@
       "desc": "SAINT LAMBERT EX BRUT OW X6 750CC",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "22.334",
       "desc": "CORONA CAN X10 269CC CART",
       "pisos": 12,
       "packsPiso": 34,
-      "packsPaleta": 408
+      "packsPaleta": 408,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "22.383",
       "desc": "QUI 0% L473 4X6",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.390",
       "desc": "QUI 0% L473 X6",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.391",
       "desc": "REDBULL 355 X4",
       "pisos": 6,
       "packsPiso": 66,
-      "packsPaleta": 396
+      "packsPaleta": 396,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "22.403",
       "desc": "GIFT CORONA OW X4 GP FRAPERA + 4 BOT 330",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "22.408",
       "desc": "GP BUDWEISER VAS0 + 5 LATAS 473CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "22.435",
       "desc": "TEMPLE SCOTTISH EURO KEG 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "22.438",
       "desc": "TEMPLE SCOTTISH CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.440",
       "desc": "TEMPLE WOLF IPA CAN 4x6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.442",
       "desc": "TEMPLE HONEY CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.452",
@@ -2316,14 +2600,16 @@
       "desc": "CAPRICCIO DOLCEZZA OW X6 750CC",
       "pisos": 5,
       "packsPiso": 30,
-      "packsPaleta": 150
+      "packsPaleta": 150,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "22.455",
       "desc": "CAPRICCIO FIORE OW X6 750CC",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "22.456",
@@ -2386,42 +2672,48 @@
       "desc": "ROOT BCO X9 375",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "22.467",
       "desc": "BLASFEMIA TINTO CAN X8 269CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "22.468",
       "desc": "TEMPLE SCOTTISH CAN X6 473CC CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.469",
       "desc": "BLASFEMIA BLANCO CAN X8 269CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "22.470",
       "desc": "BLASFEMIA ROSADO CAN X8 269CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "22.474",
       "desc": "DR LEGADO MALBEC OW x6 750CC",
       "pisos": 5,
       "packsPiso": 25,
-      "packsPaleta": 125
+      "packsPaleta": 125,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "22.478",
@@ -2435,84 +2727,96 @@
       "desc": "GOOSE ISL HAZY IPA CAN 4X6 473cc CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.588",
       "desc": "GOOSE ISLAND IPA CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.607",
       "desc": "GOOSE ISLAND IPA CAN X6 473CC CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.608",
       "desc": "STELLA ARTOIS NOIRE CAN 4X6 473 CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.609",
       "desc": "PATAGONIA CAN X4 473 GIFT P 1 VASO + 4 L",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.614",
       "desc": "ST AR 2X10 L269",
       "pisos": 12,
       "packsPiso": 17,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.194
     },
     {
       "sku": "22.618",
       "desc": "MIR POM X6 3L",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "22.619",
       "desc": "MI POM X8 2,25L",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "22.649",
       "desc": "STELLA ARTOIS NOIRE CAN X6 473CC CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.652",
       "desc": "TEMPLE WOLF IPA CAN X6 473CC CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.653",
       "desc": "TEMPLE HONEY CAN X6 473CC CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.691",
       "desc": "PATAGONIA HOPPY LAGER CAN 2X10 269CC EXP",
       "pisos": 12,
       "packsPiso": 17,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "22.947",
@@ -2526,98 +2830,112 @@
       "desc": "GP ANDES PINGUINO 1L+2 CAN AO RUBIAS 473",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.972",
       "desc": "GP BRAHMA JENGA + 4 CAN 473CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.973",
       "desc": "GP BRAHMA 4 VASOS PLAST + 4 CAN 473CC",
       "pisos": 8,
       "packsPiso": 30,
-      "packsPaleta": 240
+      "packsPaleta": 240,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "22.991",
       "desc": "PATAGONIA SENDERO SUR CAN 4X6 473 CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "23.111",
       "desc": "PATAGONIA SOLCITRA CAN X6 473 CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "23.112",
       "desc": "PATAGONIA SENDERO SUR CAN X6 473 CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "23.218",
       "desc": "GP CORONA SET TABLA + 4 BT 330ML",
       "pisos": 5,
       "packsPiso": 29,
-      "packsPaleta": 145
+      "packsPaleta": 145,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "23.232",
       "desc": "BUDWEISER OW X6 710 PR",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "23.235",
       "desc": "GLACIAR SG PET X6 1250CC",
       "pisos": 5,
       "packsPiso": 30,
-      "packsPaleta": 150
+      "packsPaleta": 150,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "23.264",
       "desc": "TEMPLE HONEY CAN 4X6 473CC TR",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "23.271",
       "desc": "GP BUD VASO MESSI + 5 LATA 473CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "23.286",
       "desc": "PDT POM X6 L269",
       "pisos": 12,
       "packsPiso": 52,
-      "packsPaleta": 624
+      "packsPaleta": 624,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "23.287",
       "desc": "PDT TON X6 L269",
       "pisos": 12,
       "packsPiso": 52,
-      "packsPaleta": 624
+      "packsPaleta": 624,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "23.316",
       "desc": "QUI0% 473 X6 TR",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "23.417",
@@ -2631,126 +2949,144 @@
       "desc": "PING VINO ROSADO RET X12 V850",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "23.883",
       "desc": "PING VINO BLANCO RET X12 V850",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "23.884",
       "desc": "PING VINO RED BLEND RET X12 V850",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "23.902",
       "desc": "PEPSI NF CAN X6 354CC",
       "pisos": 12,
       "packsPiso": 40,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "23.903",
       "desc": "7-UP NF CAN X6 354 CC",
       "pisos": 12,
       "packsPiso": 40,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "23.946",
       "desc": "GP BUDWEISER VASO + 5 CAN 473ML",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "23.947",
       "desc": "GP PATAGONIA CP+4 MABERL473",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.006",
       "desc": "SIX PACK GLA500",
       "pisos": 6,
       "packsPiso": 50,
-      "packsPaleta": 300
+      "packsPaleta": 300,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "24.011",
       "desc": "ANDES ORIGEN ROJA CAN 2X10 269CC CART",
       "pisos": 12,
       "packsPiso": 17,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "24.012",
       "desc": "BRAHMA DORADA OW X6 710CC",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "24.071",
       "desc": "RED BULL CAN 6X4 TROP EDITION 0250 L",
       "pisos": 11,
       "packsPiso": 15,
-      "packsPaleta": 165
+      "packsPaleta": 165,
+      "pesoPaleta": 745.8
     },
     {
       "sku": "24.075",
       "desc": "RED BULL CAN X4 TROP EDITION 0250 l",
       "pisos": 11,
       "packsPiso": 60,
-      "packsPaleta": 660
+      "packsPaleta": 660,
+      "pesoPaleta": 745.8
     },
     {
       "sku": "24.092",
       "desc": "GP STELLA 2 CHALICES + 4 BT 330ML",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "24.115",
       "desc": "PDTOROS PET POM SIN AZUCARES X12 500CC",
       "pisos": 7,
       "packsPiso": 24,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "24.116",
       "desc": "PDT POM SIN AZUCARES 1,5L",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "24.118",
       "desc": "ROCKS 0,5L x6",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "24.145",
       "desc": "GP GATORADE CARAMANOLA + 2 BT 500CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "24.167",
       "desc": "PDTOROS POM SA PET X8 2000CC RECO",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "24.226",
@@ -2764,42 +3100,48 @@
       "desc": "GP BRAHMA LONA + 6 CAN 473CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.248",
       "desc": "STELLA ARTOIS OW X6 710CC",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "24.252",
       "desc": "GATORADE OW BOT FRUT TROP X6 300CC",
       "pisos": 9,
       "packsPiso": 56,
-      "packsPaleta": 504
+      "packsPaleta": 504,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "24.286",
       "desc": "GP STELLA CHALICE VINTAGE + 4 CAN 473CC",
       "pisos": 6,
       "packsPiso": 35,
-      "packsPaleta": 210
+      "packsPaleta": 210,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.291",
       "desc": "ANDES ORIGEN ROJA CAN X10 269 CART",
       "pisos": 12,
       "packsPiso": 34,
-      "packsPaleta": 408
+      "packsPaleta": 408,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "24.342",
       "desc": "BIOGRAFIA RED BLEND OW X4 750CC",
       "pisos": 30,
       "packsPiso": 3,
-      "packsPaleta": 90
+      "packsPaleta": 90,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "24.343",
@@ -2813,56 +3155,64 @@
       "desc": "MICHELOB ULTRA CAN 4X6 410CC CART",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "24.372",
       "desc": "ANDES ORIGEN ROJA CAN 6X4 473CC 4PACK",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.373",
       "desc": "ANDES ORIGEN RUBIA CAN 6X4 473CC 4PACK",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.374",
       "desc": "ANDES ORIGEN NEGRA CAN 6X4 473CC 4PACK",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.376",
       "desc": "STELLA ARTOIS NOIRE CAN 2X10 269CC CART",
       "pisos": 12,
       "packsPiso": 17,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "24.378",
       "desc": "STELLA ARTOIS CAN 4X6 269CC CART",
       "pisos": 12,
       "packsPiso": 17,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "24.529",
       "desc": "BUDWEISER RET KEG 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "24.531",
       "desc": "ANDES ORIGEN CRIOLLA CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.536",
@@ -2876,287 +3226,328 @@
       "desc": "BUDWEISER SLIM KEG RET 20L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "24.551",
       "desc": "STELLA ARTOIS SIN ALCOHOL OW 4X6 330 IMP",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "24.553",
       "desc": "STELLA ARTOIS SIN ALOHOL OW x24 330 IMP",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "24.587",
       "desc": "CORONA CAN 2x10 269CC CART PROMO",
       "pisos": 12,
       "packsPiso": 17,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "24.596",
       "desc": "STELLA ARTOIS SIN ALCOHOL 330 OW x6 IMP",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "24.598",
       "desc": "CORONA 4x6 OW 330CC PROMO",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "24.639",
       "desc": "PATAGONIA SENDERO SUR SLIM KEG RET 20L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "24.640",
       "desc": "TEMPLE COSMICA RET KEG 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "24.642",
       "desc": "TEMPLE COSMICA CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.673",
       "desc": "GP TEMPLE CAN X 3 473CC + VASO",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.674",
       "desc": "GP ANDES CAN X4 473CC + PLATO MADERA",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.675",
       "desc": "GP QUILMES CAN X5 473CC + VASO MURPHY",
       "pisos": 6,
       "packsPiso": 32,
-      "packsPaleta": 192
+      "packsPaleta": 192,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.676",
       "desc": "GP BUDWEISER CAN X6 473CC + LONA TOALLA",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "24.683",
       "desc": "BUDWEISER CAN 4X6 473 TRANSP",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "24.684",
       "desc": "BRAHMA CAN 4X6 473CC TRANSP",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.685",
       "desc": "QUILMES CLASICA CAN 4X6 473CC TRANSP",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.705",
       "desc": "CORONA BARLEY OW 4X6 330CC CREEP",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "24.708",
       "desc": "GP PATAGONIA POSAVASOS+CAN X4 473CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.717",
       "desc": "BLASFEMIA BLANCO CAN x24 269CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "24.720",
       "desc": "BLASFEMIA ROSADO CAN x24 269CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "24.721",
       "desc": "BLASFEMIA TINTO CAN x24 269CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "24.875",
       "desc": "ANDES ORIGEN CRIOLLA CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.878",
       "desc": "STELLA ARTOIS PM CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.879",
       "desc": "STELLA ARTOIS PM CAN 4X6 473CC TERM",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.880",
       "desc": "STELLA ARTOIS PM RET X12 975CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "24.881",
       "desc": "STELLA ARTOIS NOIRE PM RET X12 975CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "24.882",
       "desc": "STELLA ARTOIS OW PM X6 710CC",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "24.918",
       "desc": "GP STELLA ARTOIS CAN X6 473CC+DELANTA MC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.919",
       "desc": "GP CORONA BT X2 330CC + BOTELLA",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "24.925",
       "desc": "STELLA ARTOIS PM KEG RET 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "24.927",
       "desc": "STELLA ARTOIS PM SLIM KEG RET B 20L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "24.929",
       "desc": "STELLA ARTOIS PM OW 4X6 330CC",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "24.930",
       "desc": "STELLA PM OW 330cc x24",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "24.931",
       "desc": "STELLA ART NOIRE PM CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.932",
       "desc": "STELLA ARTOIS PM CAN X6 473CC CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.934",
       "desc": "STELLA ARTOIS PM CAN X6 473CC TERM",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.935",
       "desc": "STELLA ARTOIS PM CAN 2X10 269CC CART",
       "pisos": 12,
       "packsPiso": 17,
-      "packsPaleta": 204
+      "packsPaleta": 204,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "24.955",
       "desc": "QUILMES 0% V RET X24 340CC",
       "pisos": 7,
       "packsPiso": 10,
-      "packsPaleta": 70
+      "packsPaleta": 70,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "24.958",
       "desc": "QUILMES COPA AMERICA CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.959",
       "desc": "QUILMES 0% CAN 6X4 473CC 4PACK",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.961",
       "desc": "ANDES ORIGEN IPA CAN 6X4 473CC 4PACK",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.962",
@@ -3177,21 +3568,24 @@
       "desc": "SIDRA 1930 DS 6X500CC",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "24.965",
       "desc": "SIDRA 1930 DOLCE SEC 6x500CC",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "24.966",
       "desc": "SIDRA 1930 PERA 6x500CC",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "24.967",
@@ -3212,455 +3606,520 @@
       "desc": "STELLA ART NOIRE PM CAN X6 473CC CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.996",
       "desc": "TEMPLE COSMICA CAN X6 473CC CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "24.999",
       "desc": "AW MANZANA SIN AZ AGREG PET X6 1650CC",
       "pisos": 4,
       "packsPiso": 28,
-      "packsPaleta": 112
+      "packsPaleta": 112,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "25.029",
       "desc": "AW MANZANA SIN AZ AGREG PET X6 2250CC",
       "pisos": 4,
       "packsPiso": 20,
-      "packsPaleta": 80
+      "packsPaleta": 80,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "25.030",
       "desc": "AW NAR-DUR SIN AZ AGREG PET X6 500CC",
       "pisos": 6,
       "packsPiso": 50,
-      "packsPaleta": 300
+      "packsPaleta": 300,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.031",
       "desc": "AW NAR-DUR SIN AZ AGREG PET X6 1650CC",
       "pisos": 4,
       "packsPiso": 28,
-      "packsPaleta": 112
+      "packsPaleta": 112,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "25.032",
       "desc": "AW NAR-DUR SIN AZ AGREG PET X6 2250CC",
       "pisos": 4,
       "packsPiso": 20,
-      "packsPaleta": 80
+      "packsPaleta": 80,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "25.033",
       "desc": "AW POMELO SIN AZ AGREG PET X6 500CC",
       "pisos": 6,
       "packsPiso": 50,
-      "packsPaleta": 300
+      "packsPaleta": 300,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.034",
       "desc": "AW POMELO SIN AZ AGREG PET X6 1650CC",
       "pisos": 4,
       "packsPiso": 28,
-      "packsPaleta": 112
+      "packsPaleta": 112,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "25.035",
       "desc": "AW POMELO SIN AZ AGREG PET X6 2250CC",
       "pisos": 4,
       "packsPiso": 20,
-      "packsPaleta": 80
+      "packsPaleta": 80,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "25.036",
       "desc": "AW MANZANA SIN AZ AGREG PET X6 500CC",
       "pisos": 6,
       "packsPiso": 50,
-      "packsPaleta": 300
+      "packsPaleta": 300,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.059",
       "desc": "PAT VERA 730 X6",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.15
     },
     {
       "sku": "25.060",
       "desc": "27 EAZY CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.062",
       "desc": "MICHELOB ULTRA CAN 4x6 410CC T",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.085",
       "desc": "STELLA ARTOIS CAN X6 269CC CART",
       "pisos": 12,
       "packsPiso": 13,
-      "packsPaleta": 156
+      "packsPaleta": 156,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "25.088",
       "desc": "QUILMES 0% CAN X4 473CC 4PACK",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.089",
       "desc": "STELLA ARTOIS NOIRE CAN X10 269CC CART",
       "pisos": 12,
       "packsPiso": 34,
-      "packsPaleta": 408
+      "packsPaleta": 408,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "25.119",
       "desc": "BUDWEISER CAN x6 410CC",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.120",
       "desc": "CORONA OW x12 330CC",
       "pisos": 7,
       "packsPiso": 22,
-      "packsPaleta": 154
+      "packsPaleta": 154,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "25.122",
       "desc": "ST AR CAN x6 410CC",
       "pisos": 10,
       "packsPiso": 48,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.123",
       "desc": "MICHELOB ULTRA CAN x6 410CC CART",
       "pisos": 10,
       "packsPiso": 48,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.135",
       "desc": "MIR POM 1,5L x6",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "25.136",
       "desc": "MIRINDA MANZANA PET x12 500CC",
       "pisos": 7,
       "packsPiso": 24,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.151",
       "desc": "STELLA ARTOIS NOIRE CAN x6 410CC CART",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.182",
       "desc": "ANDES ORIGEN RUBIA CAN X4 473CC 4PACK",
       "pisos": 10,
       "packsPiso": 60,
-      "packsPaleta": 600
+      "packsPaleta": 600,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.183",
       "desc": "ANDES ORIGEN NEGRA CAN X4 473CC 4PACK",
       "pisos": 10,
       "packsPiso": 60,
-      "packsPaleta": 600
+      "packsPaleta": 600,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.184",
       "desc": "PATAGONIA 24.7 CAN x6 410CC CART",
       "pisos": 10,
       "packsPiso": 48,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.186",
       "desc": "ANDES ORIGEN IPA CAN X4 473CC 4PACK",
       "pisos": 10,
       "packsPiso": 60,
-      "packsPaleta": 600
+      "packsPaleta": 600,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.188",
       "desc": "PATAGONIA AMBER CAN x6 410CC CART",
       "pisos": 10,
       "packsPiso": 48,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.189",
       "desc": "ANDES ORIGEN ROJA CAN X4 473CC 4PACK",
       "pisos": 10,
       "packsPiso": 60,
-      "packsPaleta": 600
+      "packsPaleta": 600,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.190",
       "desc": "PATAGONIA BOHEMIAN CAN x6 410CC CART",
       "pisos": 10,
       "packsPiso": 48,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.194",
       "desc": "MIRINDA NARANJA PET x6 500CC",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.223",
       "desc": "BUDWEISER x24 OW 355CC",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "25.224",
       "desc": "ANDES ORIGEN IPA ROJA CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.225",
       "desc": "ANDES ORIGEN IPA ROJA CAN 6X4 473CC 4P",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.227",
       "desc": "PATAGONIA WEISSE CAN x6 410CC CART",
       "pisos": 10,
       "packsPiso": 48,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.346",
       "desc": "PATAGONIA VERA IPA CAN x6 410CC CART",
       "pisos": 10,
       "packsPiso": 48,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.352",
       "desc": "BRAHMA DORADA CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.353",
       "desc": "ANDES ORIGEN IPA ROJA CAN X24 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.360",
       "desc": "27 EAZY CAN X6 473CC CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.361",
       "desc": "27 EAZY CAN X24 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.383",
       "desc": "PATAGONIA ABRAZO DE OSO CAN 4X6 473 CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.384",
       "desc": "BRAHMA DORADA CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.385",
       "desc": "BRAHMA MUSICA PROMO CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.452",
       "desc": "GATORADE NS FRAM PET X6 500CC",
       "pisos": 7,
       "packsPiso": 45,
-      "packsPaleta": 315
+      "packsPaleta": 315,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.453",
       "desc": "GATORADE NS LIMON PET X6 500CC",
       "pisos": 7,
       "packsPiso": 45,
-      "packsPaleta": 315
+      "packsPaleta": 315,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.454",
       "desc": "GATORADE NS NAR PET X6 500cc",
       "pisos": 7,
       "packsPiso": 45,
-      "packsPaleta": 315
+      "packsPaleta": 315,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.487",
       "desc": "GP QUILMES CAN X4 473CC + 4 VA PLINDEPE",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.488",
       "desc": "GP QUILMES CAN X4 473CC + 4 VA PLRACING",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.489",
       "desc": "GP QUILMES CAN X4 473CC + 4 VA PLA BOCA",
       "pisos": 6,
       "packsPiso": 30,
-      "packsPaleta": 180
+      "packsPaleta": 180,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.490",
       "desc": "GP QUILMES CAN X4 473CC + 4 VA PLRIVER",
       "pisos": 6,
       "packsPiso": 30,
-      "packsPaleta": 180
+      "packsPaleta": 180,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.521",
       "desc": "GP BUDWEISER ED MESSI X2 710CC + VASO",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "25.523",
       "desc": "GP ANDES CAN X2 473CC+1COPA+1PLATO ILUST",
       "pisos": 4,
       "packsPiso": 46,
-      "packsPaleta": 184
+      "packsPaleta": 184,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.537",
       "desc": "PDT TONICA 0 KCAL CAN 4X6 269CC",
       "pisos": 10,
       "packsPiso": 13,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "25.538",
       "desc": "PDT TONICA 0 KCAL PET X6 1.5L",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "25.540",
       "desc": "PATAGONIA ISIDRA BARRIL EURO X 20LS",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 206.0
     },
     {
       "sku": "25.545",
       "desc": "QUILMES DOBLE CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.546",
       "desc": "QUILMES DOBLE RET X12 1000CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "25.548",
       "desc": "QUILMES DOBLE CAN 4X6 410CC",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.553",
       "desc": "H2OH! LIMA LIMAO PET X8 2250 PR",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "25.613",
       "desc": "PATAGONIA ISIDRA CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.617",
       "desc": "GP STELLA ARTOIS CAN X3 473CC+ESPECIERO",
       "pisos": 5,
       "packsPiso": 42,
-      "packsPaleta": 210
+      "packsPaleta": 210,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.637",
       "desc": "MIRINDA MANZANA PET x6 500CC",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.638",
       "desc": "H2OH LIMONETO PET X6 500cc",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.638",
       "desc": "H2OH LIMONETO PET X6 500cc",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.639",
@@ -3681,105 +4140,120 @@
       "desc": "CAPRICCIO DOLCEZZA ROSADO x6 750CC",
       "pisos": 5,
       "packsPiso": 30,
-      "packsPaleta": 150
+      "packsPaleta": 150,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "25.642",
       "desc": "H2OH CITRUS PET X6 500CC",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.643",
       "desc": "7UP SA PET x6 500CC",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.644",
       "desc": "7-UP NF PET x6 500cc",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.645",
       "desc": "PDT POM PET X6 500cc",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.646",
       "desc": "PDT POM SA PET x6 500CC",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.647",
       "desc": "PEPSI BLACK PET x6 500cc",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.658",
       "desc": "PATAGONIA ABRAZO DE OSO CAN X6 473 C",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.668",
       "desc": "PEPSI NF PET X6 500cc",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "25.683",
       "desc": "QUILMES DOBLE CAN X24 410CC",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.685",
       "desc": "QUILMES DOBLE EURO RET KEG 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "25.686",
       "desc": "QUILMES DOBLE CAN X6 410CCC",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "25.689",
       "desc": "ANDES ORIGEN IPA ROJA CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.741",
       "desc": "PATAGONIA ISIDRA CAN 4X6 473CC TERMO",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.761",
       "desc": "PATAGONIA ISIDRA CAN x6 473CC CARTULINA",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.768",
@@ -3849,63 +4323,72 @@
       "desc": "ECO ORIGEN PET X6 850CC",
       "pisos": 6,
       "packsPiso": 40,
-      "packsPaleta": 240
+      "packsPaleta": 240,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "25.835",
       "desc": "MIRINDA FRUTA TROPICAL PET X8 2250CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "25.840",
       "desc": "GP QUI XLATAX 6 473CC+ CUBIERTOS PARILLA",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.841",
       "desc": "GP BRAH LATX X2 473CC + 2VS PLAST BRXNM",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "25.942",
       "desc": "STELLA ART PM RET KEG 30L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.275
     },
     {
       "sku": "25.978",
       "desc": "GATORADE NARANJA PET X6 1250CC",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "25.979",
       "desc": "GATORADE APPLE PET X6 1250CC",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "25.980",
       "desc": "GATORADE FRUTAS PET X6 1250CC",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "25.981",
       "desc": "GATORADE COOL BLUE PET X6 1250CC",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "26.119",
@@ -3926,147 +4409,168 @@
       "desc": "BUDWEISER OW X24 340CC",
       "pisos": 7,
       "packsPiso": 10,
-      "packsPaleta": 70
+      "packsPaleta": 70,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "26.200",
       "desc": "SIDRA 1930 DEMISEC RT KEG 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "26.206",
       "desc": "PATAGONIA TRAVESIA CAN 4X6 410CC CART",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "26.220",
       "desc": "ANDES ORIGEN FRESQUITA CAN 4X6 473CC 4P",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "26.303",
       "desc": "QUILMES ROCK CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "26.305",
       "desc": "BUDWEISER PR LOLLA OW X6 710CC",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "26.412",
       "desc": "AW N-D 1.5L x6",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "26.413",
       "desc": "AW MANZ 1.5L x6",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "26.414",
       "desc": "AW POM 1.5L x6",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "26.421",
       "desc": "RED BULL RED EDITION CAN X4 250CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 745.8
     },
     {
       "sku": "26.422",
       "desc": "RED BULL RED EDITION CAN 6x4 250cc",
       "pisos": 11,
       "packsPiso": 15,
-      "packsPaleta": 165
+      "packsPaleta": 165,
+      "pesoPaleta": 745.8
     },
     {
       "sku": "26.424",
       "desc": "NPV PROMO MULTIMARCA PET X6 2.25L",
       "pisos": 5,
       "packsPiso": 20,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "26.426",
       "desc": "NPV PROMO MULTIMARCA PET X2 6.3L 4P",
       "pisos": 4,
       "packsPiso": 24,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 0.913
     },
     {
       "sku": "26.429",
       "desc": "GLACIAR PROMO MULTIMARCA PET X6 2L 5P",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.28
     },
     {
       "sku": "26.431",
       "desc": "ECO PROMO MULTIMARCA PET X12 0.5L",
       "pisos": 7,
       "packsPiso": 29,
-      "packsPaleta": 203
+      "packsPaleta": 203,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "26.432",
       "desc": "ECO PROMO MULTIMARCA PET X6 1.5L",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "26.434",
       "desc": "ECO PROMO MULTIMARCA PET X6 2L 5P",
       "pisos": 5,
       "packsPiso": 23,
-      "packsPaleta": 115
+      "packsPaleta": 115,
+      "pesoPaleta": 1.28
     },
     {
       "sku": "26.441",
       "desc": "ANDES ORIG VENDIMIA CAN 6X4 473cc",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "26.444",
       "desc": "ANDES ORIGEN VENDIMIA SLIM KEG 20L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "26.445",
       "desc": "PATAGONIA TRAVESIA SLIM KEG 20L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "26.453",
       "desc": "QUILMES ROCK CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "26.492",
@@ -4080,35 +4584,40 @@
       "desc": "ANDES VENDIMIA X4",
       "pisos": 10,
       "packsPiso": 60,
-      "packsPaleta": 600
+      "packsPaleta": 600,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "26.560",
       "desc": "BUDWEISER CAN 4X6 410CC MUNDIAL",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "26.566",
       "desc": "BUDWEISER OW X6 710CC MUNDIAL",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "26.578",
       "desc": "GP STELLA ART CAN X4 473 + 2CHALICE TRAD",
       "pisos": 6,
       "packsPiso": 27,
-      "packsPaleta": 162
+      "packsPaleta": 162,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "26.629",
       "desc": "QUILMES CLASICA SLIM KEG 20L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "26.660",
@@ -4129,287 +4638,328 @@
       "desc": "PEPSI BLACK PET x8 2000CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "26.706",
       "desc": "BUDWEISER OW X24 355CC TERMO",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "26.707",
       "desc": "BUDWEISER MUNDIAL RET x24 340cc PR",
       "pisos": 7,
       "packsPiso": 10,
-      "packsPaleta": 70
+      "packsPaleta": 70,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "26.811",
       "desc": "BUDWEISER GLOW OW X24 355CC PROMO",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "26.995",
       "desc": "CORONA CAN x6 410cc CART",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "26.997",
       "desc": "STELLA ARTOIS BLANCHE CAN 4x6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.000",
       "desc": "STELLA ARTOIS BLANCHE RET x12 975CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "27.081",
       "desc": "ECO DE LOS ANDES PET x6 850cc",
       "pisos": 6,
       "packsPiso": 42,
-      "packsPaleta": 252
+      "packsPaleta": 252,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "27.086",
       "desc": "BRAHMA PROMO LETRAS CAN 4X6 473cc",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.111",
       "desc": "GOOSE HAZY IPA CAN x6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.118",
       "desc": "GP PEPSI BLACK CAN x3 369cc + VASO MESSI",
       "pisos": 6,
       "packsPiso": 40,
-      "packsPaleta": 240
+      "packsPaleta": 240,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "27.120",
       "desc": "STELLA ARTOIS BLANCHE CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.123",
       "desc": "BRAHMA PROMO LETRAS CAN X24 473cc",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.131",
       "desc": "QUILMES MUNDIAL PROMO CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.135",
       "desc": "BRAHMA PROMO LETRAS CAN X6 473cc",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.136",
       "desc": "PAT TRAVESIA 410cc X6",
       "pisos": 10,
       "packsPiso": 48,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "27.138",
       "desc": "TEMPLE WOLF RET x12 1000CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "27.139",
       "desc": "QUILMES MUNDIAL PROMO RET X12 LITRO",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "27.144",
       "desc": "GP STELLA x4 CAN 473cc + 2 BOWLS + 1 CHA",
       "pisos": 5,
       "packsPiso": 27,
-      "packsPaleta": 135
+      "packsPaleta": 135,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.146",
       "desc": "MICHELOB ULTRA CAN 4x6 410CC TERMO",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "27.325",
       "desc": "ROCKSTAR BERRY PET X6 500CC",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "27.478",
       "desc": "MICHELOB ULTRA X6 410CC TERMO",
       "pisos": 10,
       "packsPiso": 48,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "27.484",
       "desc": "AWAFRUT MANZANA PET X12 500CC",
       "pisos": 7,
       "packsPiso": 26,
-      "packsPaleta": 182
+      "packsPaleta": 182,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "27.485",
       "desc": "AWAFRUT POMELO PET X12 500CC",
       "pisos": 7,
       "packsPiso": 26,
-      "packsPaleta": 182
+      "packsPaleta": 182,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "27.486",
       "desc": "AWAFRUT NARANJA DURAZNO PET X12 500CC",
       "pisos": 7,
       "packsPiso": 26,
-      "packsPaleta": 182
+      "packsPaleta": 182,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "27.488",
       "desc": "BRAHMA MUSICA RET X12 1000cc",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "27.564",
       "desc": "PEPSI COLA PET X12 350CC",
       "pisos": 7,
       "packsPiso": 31,
-      "packsPaleta": 217
+      "packsPaleta": 217,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "27.565",
       "desc": "PEPSI BLACK PET X12 350CC",
       "pisos": 7,
       "packsPiso": 31,
-      "packsPaleta": 217
+      "packsPaleta": 217,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "27.566",
       "desc": "SEVEN-UP PET X12 350CC",
       "pisos": 7,
       "packsPiso": 31,
-      "packsPaleta": 217
+      "packsPaleta": 217,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "27.567",
       "desc": "SEVEN-UP FREE PET X12 350CC",
       "pisos": 7,
       "packsPiso": 31,
-      "packsPaleta": 217
+      "packsPaleta": 217,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "27.568",
       "desc": "MIRINDA NARANJA PET X12 350CC",
       "pisos": 7,
       "packsPiso": 21,
-      "packsPaleta": 217
+      "packsPaleta": 217,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "27.569",
       "desc": "PDT POMELO PET X12 350CC",
       "pisos": 7,
       "packsPiso": 31,
-      "packsPaleta": 217
+      "packsPaleta": 217,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "27.570",
       "desc": "PDT TONICA PET X12 350CC",
       "pisos": 7,
       "packsPiso": 31,
-      "packsPaleta": 217
+      "packsPaleta": 217,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "27.580",
       "desc": "ANDES ORIGEN FRESQUITA RET X12 1000CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "27.583",
       "desc": "AO  FRESQUITA CAN 473cc X4",
       "pisos": 10,
       "packsPiso": 60,
-      "packsPaleta": 600
+      "packsPaleta": 600,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.611",
       "desc": "STELLA BLANCHE RET SLIM KEG 20L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "27.613",
       "desc": "QUILMES CLASICA MUNDIAL 22 RET X24 340CC",
       "pisos": 7,
       "packsPiso": 10,
-      "packsPaleta": 70
+      "packsPaleta": 70,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "27.618",
       "desc": "QUILMES CLASICA MUNDIAL 26 RET X24 340CC",
       "pisos": 7,
       "packsPiso": 10,
-      "packsPaleta": 70
+      "packsPaleta": 70,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "27.627",
       "desc": "GP MUNDIAL CAN X4 410CC + ALUCUP",
       "pisos": 6,
       "packsPiso": 42,
-      "packsPaleta": 252
+      "packsPaleta": 252,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "27.677",
       "desc": "PATAGONIA AMBER LAGER RET X12 1000cc",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "27.678",
       "desc": "PATAGONIA BOHEMIAN RET X12 1000CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "27.679",
@@ -4444,56 +4994,64 @@
       "desc": "DANTE ROBINO PET NAT OW X6 750CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.086
     },
     {
       "sku": "27.861",
       "desc": "QUILMES RED LAGER CAN 4X6 473CC OLIMPO",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "27.864",
       "desc": "QUILMES 0.0 CAN 4X6 473CC OLIMPO",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.869",
       "desc": "BUDWEISER CAN 4X6 410CC OLIMPO",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "27.873",
       "desc": "QUILMES STOUT CAN 4X6 473CC OLIMPO",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.933",
       "desc": "GP BRAH CAN X3 473C+3VS PLAST BRXNM 2022",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.934",
       "desc": "GP STELLA X5 CAN 473 +1 CHAL BON APP 0.3",
       "pisos": 6,
       "packsPiso": 22,
-      "packsPaleta": 132
+      "packsPaleta": 132,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "27.965",
       "desc": "GP PATAGONIA CAN X4 410C + 1 CANTIMPLORA",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.266
     },
     {
       "sku": "28.215",
@@ -4521,28 +5079,32 @@
       "desc": "BUDWEISER LOLLA 2023 CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "28.230",
       "desc": "BUDWEISER LOLLA 2023 RET X24 340CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "28.241",
       "desc": "BRAHMA CARNAVAL 2023 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "28.245",
       "desc": "BRAHMA CARNAVAL RET X12 1000CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "28.251",
@@ -4570,42 +5132,48 @@
       "desc": "AO IPA B20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "28.259",
       "desc": "BUDWEISER LOLLA 2023 CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "28.263",
       "desc": "QUILMES IPA CAN 4x6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "28.315",
       "desc": "STELLA ARTOIS 0.0% CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "28.316",
       "desc": "BUDWEISER OW X6 710cc TT",
       "pisos": 5,
       "packsPiso": 30,
-      "packsPaleta": 150
+      "packsPaleta": 150,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "28.317",
       "desc": "CORONA OW X24 330CC",
       "pisos": 7,
       "packsPiso": 22,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "28.341",
@@ -4640,7 +5208,8 @@
       "desc": "VINO MANDAMAS X12 1LT",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "28.495",
@@ -4654,42 +5223,48 @@
       "desc": "STRIPTIZ MARACUYA CAN 4X6 355 TERMO TRA",
       "pisos": 10,
       "packsPiso": 13,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "28.528",
       "desc": "STRIPTIZ MARAC E HIB OW 4X6 355 TERM TRA",
       "pisos": 10,
       "packsPiso": 13,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "28.532",
       "desc": "NPV 2.25L 4 pis",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "28.574",
       "desc": "VINO BLANCO MANDAMAS X12 1LT",
       "pisos": 6,
       "packsPiso": 15,
-      "packsPaleta": 90
+      "packsPaleta": 90,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "28.593",
       "desc": "TEMPLE GOLDEN CAN X24 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "28.594",
       "desc": "TEMPLE GOLDEN CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "28.616",
@@ -4724,56 +5299,64 @@
       "desc": "VERMUT AO GUSTOSO OW X6 740CC",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "28.691",
       "desc": "BUDWEISER CAN 4x4 710CC",
       "pisos": 8,
       "packsPiso": 12,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "28.694",
       "desc": "QUILMES FUTBOL NOB CAN 4x6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "28.695",
       "desc": "QUILMES FUTBOL RC CAN 4x6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "28.696",
       "desc": "TEMPLE GOLDEN CAN X6 473CC CART",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "28.698",
       "desc": "STELLA ARTOIS 0.0% OW 4X6 330CC",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "28.699",
       "desc": "STELLA ARTOIS 0.0% OW x24 330CC",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "28.735",
       "desc": "BUDWEISER CAN X4 710CC",
       "pisos": 8,
       "packsPiso": 48,
-      "packsPaleta": 384
+      "packsPaleta": 384,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "28.738",
@@ -4794,7 +5377,8 @@
       "desc": "STELLA ARTOIS 0,0% CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "28.797",
@@ -4808,42 +5392,48 @@
       "desc": "BRAHMA DORADA RET X12 1000CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "28.842",
       "desc": "PATAGONIA IPA 24.7 RET X12 1000CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "28.846",
       "desc": "QUILMES IPA RET X12 1000CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "28.936",
       "desc": "COPA STELLA ARTOIS TADA X6 300ml",
       "pisos": 28,
       "packsPiso": null,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "28.942",
       "desc": "PEPSI 100KCAL PET X6 1500CC SMK",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "28.943",
       "desc": "7UP 100KCAL PET X6 1500CC SMK",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "28.982",
@@ -4857,7 +5447,8 @@
       "desc": "GP SA CAN X1 473CC + MASTERCHEF CUBIERTO",
       "pisos": 4,
       "packsPiso": 72,
-      "packsPaleta": 288
+      "packsPaleta": 288,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.021",
@@ -4885,14 +5476,16 @@
       "desc": "QUILMES FUTBOL NOB CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.028",
       "desc": "QUILMES FUTBOL RC CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.069",
@@ -4906,7 +5499,8 @@
       "desc": "GP BOSQ ALTA MONT OW X1 500cc + VASO DUBAI",
       "pisos": 6,
       "packsPiso": 10,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "29.072",
@@ -4920,14 +5514,16 @@
       "desc": "QUILMES HINCHADA CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.123",
       "desc": "BRAHAMA CHOPP CAN4X6 473 SMK.",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.125",
@@ -4955,7 +5551,8 @@
       "desc": "PEPSI TWIST BLACK CAN 4X6 354CC",
       "pisos": 12,
       "packsPiso": 10,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "29.164",
@@ -4969,21 +5566,24 @@
       "desc": "ECO DE LOS ANDES SG PET X12 500CC 6PISOS",
       "pisos": 6,
       "packsPiso": 29,
-      "packsPaleta": 174
+      "packsPaleta": 174,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "29.231",
       "desc": "PDT POMELO PET X8 2450CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "29.233",
       "desc": "7UP FREE PET X8 2450CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "29.241",
@@ -5018,49 +5618,56 @@
       "desc": "PATAGONIA IPA ESTELAR CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.388",
       "desc": "PATAGONIA IPA ESTELAR CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.392",
       "desc": "PATAGONIA ESTELAR RET KEG SLIM 20L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "29.393",
       "desc": "CHACHINGO BOTANIC LAGER OW X6 740CC",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.086
     },
     {
       "sku": "29.394",
       "desc": "CHACHINGO GRAPE ALE OW X6 740CC",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "29.397",
       "desc": "GOOSE ISLAND LAGER OW X6 730CC",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.15
     },
     {
       "sku": "29.401",
       "desc": "JUGO NARANJA SALUST PURA FRUTTA x12 1LT",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "29.423",
@@ -5074,35 +5681,40 @@
       "desc": "COPA RECTA STELLA ARTOIS TADA X6 330ML (HERITAGE 1)",
       "pisos": null,
       "packsPiso": 28,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "29.495",
       "desc": "COPA CURVO STELLA ARTOIS TADA X6 330ML (HERITAGE 2)",
       "pisos": 28,
       "packsPiso": 6,
-      "packsPaleta": 168
+      "packsPaleta": 168,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "29.514",
       "desc": "ECO DE L ANDES SG PET X6 1.500CC ART SMK",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "29.515",
       "desc": "ECO DE L ANDES SG PET X6 2.000CC ART SMK",
       "pisos": 4,
       "packsPiso": 23,
-      "packsPaleta": 92
+      "packsPaleta": 92,
+      "pesoPaleta": 1.28
     },
     {
       "sku": "29.565",
       "desc": "NESTLE PUREZA VITAL SG PET X2 6,3L EXPO",
       "pisos": 3,
       "packsPiso": 24,
-      "packsPaleta": 72
+      "packsPaleta": 72,
+      "pesoPaleta": 913.0
     },
     {
       "sku": "29.576",
@@ -5116,7 +5728,8 @@
       "desc": "GATORADE MARACUYA PET X6 500cc",
       "pisos": 7,
       "packsPiso": 45,
-      "packsPaleta": 315
+      "packsPaleta": 315,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "29.592",
@@ -5137,56 +5750,64 @@
       "desc": "PEPSI TWIST BLACK CAN X6 354CC",
       "pisos": 13,
       "packsPiso": 40,
-      "packsPaleta": 520
+      "packsPaleta": 520,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "29.649",
       "desc": "STELLA ARTOIS LAGER CAN 4x4 710CC",
       "pisos": 8,
       "packsPiso": 12,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "29.650",
       "desc": "ANDES ORIGEN RUBIA CAN 4X4 710CC",
       "pisos": 8,
       "packsPiso": 12,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "29.707",
       "desc": "GOOSE ISLAND LAGER RET EURO KEG 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "29.709",
       "desc": "STELLA ARTOIS LAGER CAN X4 710CC",
       "pisos": 8,
       "packsPiso": 48,
-      "packsPaleta": 384
+      "packsPaleta": 384,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "29.718",
       "desc": "QUILMES BAJO CERO RET X12 1L HC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "29.724",
       "desc": "MICHELOB ULTRA CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.725",
       "desc": "GOOSE LAGER CAN 4X4 710CC",
       "pisos": 8,
       "packsPiso": 12,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "29.736",
@@ -5200,147 +5821,168 @@
       "desc": "QUILMES IPA EURO KEG 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "29.740",
       "desc": "QUILMES 1890 RET X12 1L HC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "29.741",
       "desc": "ANDES ORIGEN RUBIA CAN X4 710CC",
       "pisos": 8,
       "packsPiso": 48,
-      "packsPaleta": 384
+      "packsPaleta": 384,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "29.743",
       "desc": "QUILMES 1890 CAN X24 473CC HC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.782",
       "desc": "PATAGONIA COCO LAGER OW X12 355CC",
       "pisos": 7,
       "packsPiso": 22,
-      "packsPaleta": 154
+      "packsPaleta": 154,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "29.786",
       "desc": "MICHELOB ULTRA CAN X6 473CC",
       "pisos": 40,
       "packsPiso": 10,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.787",
       "desc": "BRAHMA MUSICA 2023 CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.789",
       "desc": "BRAHMA MUSICA 2023 RET X12 1000CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "29.790",
       "desc": "STELLA ARTOIS VINTA PROMO RET X12 975CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "29.798",
       "desc": "RED BULL FRUTA DRAGON CAN X4 250CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 745.8
     },
     {
       "sku": "29.799",
       "desc": "RED BULL FRUTA DEL DRAGON CAN 6X4 250CC",
       "pisos": 11,
       "packsPiso": 15,
-      "packsPaleta": 165
+      "packsPaleta": 165,
+      "pesoPaleta": 745.8
     },
     {
       "sku": "29.800",
       "desc": "ROCKSTAR ORANGE PET X6 1500CC",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "29.801",
       "desc": "ROCKSTAR BERRY PET X6 1500CC",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "29.802",
       "desc": "ROCKSTAR MIX FRUIT PET X6 1500CC",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "29.813",
       "desc": "STELLA ARTOIS VINTAGE 2023 CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.814",
       "desc": "H2OH STILL MANZANA PET X6 500CC",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "29.815",
       "desc": "H2OH STILL LIMON PET X6 500CC",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "29.816",
       "desc": "H2OH STILL POMELO PET X6 500CC",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "29.817",
       "desc": "H2OH STILL MANZANA PET X6 1.500L",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "29.818",
       "desc": "H2OH STILL LIMON PET X6 1.500L",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "29.917",
       "desc": "STA TWOPACK VASOS PATAGONIA TULIPA",
       "pisos": 6,
       "packsPiso": 60,
-      "packsPaleta": 360
+      "packsPaleta": 360,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "29.921",
@@ -5354,7 +5996,8 @@
       "desc": "STA TWOPACK COPAS STELLA ART",
       "pisos": 7,
       "packsPiso": 84,
-      "packsPaleta": 588
+      "packsPaleta": 588,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "30.282",
@@ -5368,14 +6011,16 @@
       "desc": "STELLA ARTOIS VINTAGE 2023 CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "30.286",
       "desc": "BRAHMA MUSICA 2023 CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "30.323",
@@ -5424,7 +6069,8 @@
       "desc": "PEPSI NF CAN 130 BUL/PAL 4X6 354CC",
       "pisos": 13,
       "packsPiso": 10,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "30.409",
@@ -5452,7 +6098,8 @@
       "desc": "TWOPACK CHALICE STELLA ARTOIS FIESTAS",
       "pisos": null,
       "packsPiso": 70,
-      "packsPaleta": 492
+      "packsPaleta": 492,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "30.421",
@@ -5473,14 +6120,16 @@
       "desc": "BUDWEISER MUSICA CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "30.467",
       "desc": "ANDES ORIGEN IPA CAN 4X6 473CC PROMO TT",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "30.473",
@@ -5494,21 +6143,24 @@
       "desc": "MIRINDA NAR CAN 130 BUL/PAL 4X6 354CC",
       "pisos": 13,
       "packsPiso": 10,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "30.478",
       "desc": "7UP FREE CAN 130 BUL/PAL 4X6 354CC",
       "pisos": 13,
       "packsPiso": 10,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "30.479",
       "desc": "PEPSI BLACK CAN 130 BUL/PAL 4X6 354cc",
       "pisos": 13,
       "packsPiso": 10,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "30.480",
@@ -5522,7 +6174,8 @@
       "desc": "SEVEN-UP NF CAN 130 BUL/PAL 4X6 354CC",
       "pisos": 13,
       "packsPiso": 10,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "30.492",
@@ -5543,35 +6196,40 @@
       "desc": "PEPSI BL TWIST CAN 130 BUL/PAL 4X6 354CC",
       "pisos": 13,
       "packsPiso": 10,
-      "packsPaleta": 1.3
+      "packsPaleta": 1.3,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "30.545",
       "desc": "CEBADA PERLADA GAUCHADA x12 500gr",
       "pisos": 12,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.546",
       "desc": "BUDWEISER MUSICA RET X12 1000cc",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.135
     },
     {
       "sku": "30.549",
       "desc": "BUDWEISER MUSICA CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 980.0
     },
     {
       "sku": "30.551",
       "desc": "CORONA CAN 4X6 473CC AR",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "30.589",
@@ -5592,70 +6250,80 @@
       "desc": "PEPSI PET X9 250CC TITAN",
       "pisos": 9,
       "packsPiso": 42,
-      "packsPaleta": 378
+      "packsPaleta": 378,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "30.644",
       "desc": "PEPSI 70KCAL PET X6 1500CC",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.645",
       "desc": "PEPSI 70KCAL PET X8 2000CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "30.646",
       "desc": "PEPSI PET X8 2250CC TITAN",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "30.647",
       "desc": "PEPSI 70KCAL PET X6 3000CC",
       "pisos": 5,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "30.648",
       "desc": "PEPSI CAN 4X6 354CC TITAN",
       "pisos": 13,
       "packsPiso": 10,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "30.649",
       "desc": "PEPSI CAN X6 354CC TITAN",
       "pisos": 13,
       "packsPiso": 40,
-      "packsPaleta": 520
+      "packsPaleta": 520,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "30.650",
       "desc": "PEPSI PET X12 350CC TITAN",
       "pisos": 7,
       "packsPiso": 31,
-      "packsPaleta": 217
+      "packsPaleta": 217,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "30.663",
       "desc": "PEP 70K X6 PET 500CC",
       "pisos": 6,
       "packsPiso": 48,
-      "packsPaleta": 288
+      "packsPaleta": 288,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.716",
       "desc": "CORONA CAN X6 473CC AR",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "30.764",
@@ -5676,35 +6344,40 @@
       "desc": "PEPSI BLACK PET X8 2000CC TITAN",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "30.790",
       "desc": "PEPSI BLACK PET X6 1500CC TITAN",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.791",
       "desc": "PEPSI BLACK PET X6 500CC TITAN",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.793",
       "desc": "PEPSI BLACK CAN 4X6 354CC TITAN",
       "pisos": 13,
       "packsPiso": 10,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "30.795",
       "desc": "PEPSI 70KCAL PET X8 2.000CC RECO",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.28
     },
     {
       "sku": "30.802",
@@ -5718,126 +6391,144 @@
       "desc": "H2OH STILL MANZANA PET X6 1.500L 96 BUL",
       "pisos": 4,
       "packsPiso": 24,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.842",
       "desc": "H2OH STILL POMELO PET X6 1.500L 96 BUL",
       "pisos": 4,
       "packsPiso": 24,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.843",
       "desc": "H2OH STILL LIMON PET X6 1.500L 96 BUL",
       "pisos": 4,
       "packsPiso": 21,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.869",
       "desc": "MICHELOB ULTR COPA AMER CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "30.895",
       "desc": "CORONA 0.0 OW X24 330CC",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "30.914",
       "desc": "LARGO FINO APOSTOLES X10 500gr",
       "pisos": 13,
       "packsPiso": 15,
-      "packsPaleta": 195
+      "packsPaleta": 195,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.970",
       "desc": "7UP PET X6 3000CC NF 2024",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "30.971",
       "desc": "7UP PET X8 2250CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "30.972",
       "desc": "7UP PET X6 1500CC NF 2024",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.974",
       "desc": "7UP PET X6 500CC NF 2024",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.976",
       "desc": "7UP PET X9 250CC",
       "pisos": 9,
       "packsPiso": 42,
-      "packsPaleta": 378
+      "packsPaleta": 378,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "30.977",
       "desc": "7UP FREE PET X8 2250CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "30.978",
       "desc": "7UP FREE PET X6 1500CC",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.979",
       "desc": "7UP FREE PET X6 500CC",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "30.985",
       "desc": "OBLEA CHOCOLATE ZUPAY x12 100gr",
       "pisos": 15,
       "packsPiso": 20,
-      "packsPaleta": 300
+      "packsPaleta": 300,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "30.986",
       "desc": "OBLEA VAINILLA ZUPAY x12 100gr",
       "pisos": 15,
       "packsPiso": 20,
-      "packsPaleta": 300
+      "packsPaleta": 300,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "30.987",
       "desc": "OBLEA FRUTILLA ZUPAY x12 100gr",
       "pisos": 15,
       "packsPiso": 20,
-      "packsPaleta": 300
+      "packsPaleta": 300,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "30.988",
       "desc": "PALLET MIX OBLEA CHOCO-VAIN-FRU x12 100g",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 300
+      "packsPaleta": 300,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "30.989",
@@ -5851,70 +6542,80 @@
       "desc": "ANDES ORIGEN IPA CAN X6 473CC PROMO TT",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.018",
       "desc": "CORONA CAN 4X6 473CC JJOO",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.033",
       "desc": "CORONA 0.0 OW X24 330CC JJOO",
       "pisos": 12,
       "packsPiso": 7,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "31.040",
       "desc": "CORONA CERO OW 4X6 330CC EX RDLP",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "31.066",
       "desc": "7UP FREE CAN X6 354CC 130 BULTOS",
       "pisos": 13,
       "packsPiso": 40,
-      "packsPaleta": 520
+      "packsPaleta": 520,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "31.068",
       "desc": "7UP CAN X6 354CC 130 BULTOS",
       "pisos": 13,
       "packsPiso": 40,
-      "packsPaleta": 520
+      "packsPaleta": 520,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "31.069",
       "desc": "PEPSI TWIST BLACK CAN X6 354CC 130 BULTO",
       "pisos": 13,
       "packsPiso": 40,
-      "packsPaleta": 520
+      "packsPaleta": 520,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "31.071",
       "desc": "PEPSI BLACK CAN X6 354CC TITAN",
       "pisos": 13,
       "packsPiso": 40,
-      "packsPaleta": 520
+      "packsPaleta": 520,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "31.072",
       "desc": "PEPSI BLACK CAN X6 354CC 130 BULTOS",
       "pisos": 13,
       "packsPiso": 40,
-      "packsPaleta": 520
+      "packsPaleta": 520,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "31.073",
       "desc": "PDT TONICA CAN 4X6 269CC 169 BULTOS",
       "pisos": 13,
       "packsPiso": 13,
-      "packsPaleta": 169
+      "packsPaleta": 169,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "31.076",
@@ -5928,56 +6629,64 @@
       "desc": "CORONA OW X12 710CC JJOO",
       "pisos": 6,
       "packsPiso": 14,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "31.119",
       "desc": "RED BULL BLUE EDITION CAN 6X4 250CC",
       "pisos": 11,
       "packsPiso": 15,
-      "packsPaleta": 165
+      "packsPaleta": 165,
+      "pesoPaleta": 745.8
     },
     {
       "sku": "31.130",
       "desc": "FUSILLI BONALMA X12 500gr",
       "pisos": 3,
       "packsPiso": 12,
-      "packsPaleta": 36
+      "packsPaleta": 36,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "31.131",
       "desc": "PENNE RIGATE BONALMA X12 500gr",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "31.132",
       "desc": "SPAGHETTI BONALMA X12 500gr",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "31.169",
       "desc": "RED BULL BLUE EDITION CAN X4 250CC",
       "pisos": 11,
       "packsPiso": 90,
-      "packsPaleta": 990
+      "packsPaleta": 990,
+      "pesoPaleta": 745.8
     },
     {
       "sku": "31.170",
       "desc": "MIRINDA MANZANA PET X6 1500CC",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "31.171",
       "desc": "PDT TONICA CAN X6 269CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "31.173",
@@ -5991,98 +6700,112 @@
       "desc": "PEPSI COLA CAN X6 354CC 130 BULTOS",
       "pisos": 13,
       "packsPiso": 40,
-      "packsPaleta": 520
+      "packsPaleta": 520,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "31.204",
       "desc": "ANDES ORIGEN RUBIA 2.0 RET X12 1000CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "31.205",
       "desc": "ANDES ORIGEN RUBIA 2.0 CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.206",
       "desc": "ANDES ORIGEN RUBIA 2.0 CAN 4X4 710CC",
       "pisos": 8,
       "packsPiso": 12,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "31.214",
       "desc": "CORONA OW X24 330CC JJOO",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "31.215",
       "desc": "QUILMES 0.0 2.0 CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.233",
       "desc": "ANDES ORIGEN RUBIA 2.0 CAN X4 710CC",
       "pisos": 8,
       "packsPiso": 48,
-      "packsPaleta": 384
+      "packsPaleta": 384,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "31.242",
       "desc": "QUILMES CLASICA CAN 4X4 710CC",
       "pisos": 8,
       "packsPiso": 12,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "31.252",
       "desc": "RED BULL APRICOT CAN 6X4 250CC DES",
       "pisos": 11,
       "packsPiso": 15,
-      "packsPaleta": 165
+      "packsPaleta": 165,
+      "pesoPaleta": 745.8
     },
     {
       "sku": "31.264",
       "desc": "CORONA 0.0 OW X6 330CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "31.265",
       "desc": "CORONA CAN X6 473CC JJOO",
       "pisos": 40,
       "packsPiso": 10,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.312",
       "desc": "CORONA CERO OW X6 330CC EX RDLP",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "31.336",
       "desc": "QUILMES CLASICA CAN X4 710CC",
       "pisos": 8,
       "packsPiso": 48,
-      "packsPaleta": 384
+      "packsPaleta": 384,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "31.337",
       "desc": "QUILMES 0.0 2.0 CAN X6 473CC",
       "pisos": 48,
       "packsPiso": 10,
-      "packsPaleta": 480
+      "packsPaleta": 480,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.346",
@@ -6124,42 +6847,48 @@
       "desc": "ANDES ORIGEN RUBIA ORO CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.356",
       "desc": "ANDES ORIGEN RUBIA ORO RET X12 1000CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "31.357",
       "desc": "PATAGONIA LAGER DEL SUR CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.365",
       "desc": "PATAGONIA LAGER DEL SUR OW X6 730CC",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.15
     },
     {
       "sku": "31.382",
       "desc": "PDT TONICA SA CAN 4X6 269CC",
       "pisos": 13,
       "packsPiso": 13,
-      "packsPaleta": 169
+      "packsPaleta": 169,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "31.384",
       "desc": "PEPSI TWIST PET X6 1500CC",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "31.406",
@@ -6187,28 +6916,32 @@
       "desc": "BRAHMA CAN 4X4 710CC",
       "pisos": 8,
       "packsPiso": 12,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "31.439",
       "desc": "PATAGONIA LAGER DEL SUR KEG EURO 20L",
       "pisos": 1,
       "packsPiso": 6,
-      "packsPaleta": 6
+      "packsPaleta": 6,
+      "pesoPaleta": 0.206
     },
     {
       "sku": "31.441",
       "desc": "PATAGONIA LAGER DEL SUR KEG SLIM 20L",
       "pisos": 1,
       "packsPiso": 20,
-      "packsPaleta": 20
+      "packsPaleta": 20,
+      "pesoPaleta": 0.55
     },
     {
       "sku": "31.470",
       "desc": "BRAHMA CHOPP CAN X4 710CC",
       "pisos": 7,
       "packsPiso": 48,
-      "packsPaleta": 336
+      "packsPaleta": 336,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "31.498",
@@ -6222,7 +6955,8 @@
       "desc": "ANDES ORIGEN RUBIA ORO CAN X6 473CC",
       "pisos": 40,
       "packsPiso": 10,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.543",
@@ -6236,28 +6970,32 @@
       "desc": "MICHELOB ULTRA GLUT FREE CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.558",
       "desc": "MICHELOB ULTRA GLUT FREE CAN X24 473CC",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.561",
       "desc": "LECHE DESCREMADA TREGAR X12 1LT",
       "pisos": 5,
       "packsPiso": 15,
-      "packsPaleta": 75
+      "packsPaleta": 75,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "31.562",
       "desc": "LECHE ENTERA TREGAR X12 1LT",
       "pisos": 5,
       "packsPiso": 15,
-      "packsPaleta": 75
+      "packsPaleta": 75,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "31.587",
@@ -6271,49 +7009,56 @@
       "desc": "MICHELOB ULTRA GLUTEN FREE CAN X6 473CC",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "31.600",
       "desc": "2OH S/GAS POMELO PET X8 2000CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "31.601",
       "desc": "H2OH STILL LIMON PET X8 2000CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "31.601",
       "desc": "H2OH S/GAS LIMON PET X8 2000CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "31.602",
       "desc": "H2OH STILL MANZANA PET X8 2000CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "31.602",
       "desc": "H2OH S/GAS MANZANA PET X8 2000CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "31.610",
       "desc": "GATORADE GREEN MANGO PET X6 500CC",
       "pisos": 7,
       "packsPiso": 45,
-      "packsPaleta": 315
+      "packsPaleta": 315,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "31.688",
@@ -6355,7 +7100,8 @@
       "desc": "QUILMES CLASICA RET X12 1L BAJO TAPA LB",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "31.827",
@@ -6369,7 +7115,8 @@
       "desc": "SIN FILTRO CHARDONAY SAUVIGN OW X6 750CC",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "31.918",
@@ -6397,70 +7144,80 @@
       "desc": "POLENTA MOLINOS ALA x10 500gr",
       "pisos": 14,
       "packsPiso": 14,
-      "packsPaleta": 196
+      "packsPaleta": 196,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "31.979",
       "desc": "PALETA MIX TALITAS URQUIZA x7 100gr",
       "pisos": 6,
       "packsPiso": 40,
-      "packsPaleta": 240
+      "packsPaleta": 240,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "32.060",
       "desc": "ANDES ORIGEN NEGRA CAN 4X6 473CC ED LIM",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "32.062",
       "desc": "ANDES ORIGEN ROJA CAN 4X6 473CC ED LIM",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "32.062",
       "desc": "ANDES ORIGEN ROJA CAN 4X6 473CC ED LIM",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "32.064",
       "desc": "ANDES ORIGEN RUBIA CAN 4X6 473CC ED LIM",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "32.066",
       "desc": "BRAHMA CHOPP RET X12 1L PROMO BAJO TAPA",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "32.067",
       "desc": "SA LAGER CAN 4X6 473CC CART ED TENIS",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "32.108",
       "desc": "ANDES ORIGEN IPA CAN 4X6 473CC ED LIM",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "32.111",
       "desc": "SA LAGER CAN X6 473CC CART ED TENIS",
       "pisos": 10,
       "packsPiso": 40,
-      "packsPaleta": 400
+      "packsPaleta": 400,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "32.120",
@@ -6516,49 +7273,56 @@
       "desc": "CORONA 0.0 OW 6X4 330CC CLUSTER 4PACK",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "32.196",
       "desc": "CORONA 0.0 OW 6X4 330CC ED 100 ANOS",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "32.197",
       "desc": "CORONA OW 4X6 330CC ED 100 ANOS",
       "pisos": 7,
       "packsPiso": 12,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "32.209",
       "desc": "RB WINT ICED VANI BERRY CAN 6X4 250CC",
       "pisos": 11,
       "packsPiso": 15,
-      "packsPaleta": 165
+      "packsPaleta": 165,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "32.223",
       "desc": "CORONA 0.0 OW X4 330CC ED 100 ANOS",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "32.237",
       "desc": "RB WINT ICED VANI BERRY CAN X4 250CC",
       "pisos": 11,
       "packsPiso": 90,
-      "packsPaleta": 990
+      "packsPaleta": 990,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "32.239",
       "desc": "CORONA 0.0 OW X4 330CC CLUSTER",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "32.270",
@@ -6586,84 +7350,96 @@
       "desc": "NPV SG PET X12 500CC 208 PACKS",
       "pisos": 8,
       "packsPiso": 26,
-      "packsPaleta": 208
+      "packsPaleta": 208,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "32.293",
       "desc": "GLACIAR SG PET X12 500CC 208 PACKS",
       "pisos": 8,
       "packsPiso": 26,
-      "packsPaleta": 208
+      "packsPaleta": 208,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "32.378",
       "desc": "BRAHMA CHOPP CAN X24 354CC TRANSP",
       "pisos": 13,
       "packsPiso": 10,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "32.405",
       "desc": "BRAHMA CHOP CAN 4X6 354CC TRANSP C BANDA",
       "pisos": 13,
       "packsPiso": 10,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "32.423",
       "desc": "GATORADE FRUTAS TROPICALES OW X24 473CC",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "32.492",
       "desc": "H2OH S/GAS NARANJA PET X6 1500CC",
       "pisos": 5,
       "packsPiso": 24,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "32.495",
       "desc": "QUILMES BAJO CERO CAN 4X6 473CC TT",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "32.511",
       "desc": "PEPSI BLACK PET X6 3000CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.34
     },
     {
       "sku": "32.530",
       "desc": "RB SPRING EDITION CAN 6X4 250CC",
       "pisos": 11,
       "packsPiso": 15,
-      "packsPaleta": 165
+      "packsPaleta": 165,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "32.537",
       "desc": "GLACIAR SG PET X6 2L",
       "pisos": 5,
       "packsPiso": 23,
-      "packsPaleta": 115
+      "packsPaleta": 115,
+      "pesoPaleta": 1.28
     },
     {
       "sku": "32.559",
       "desc": "RB SPRING EDITION CAN X4 250CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "32.561",
       "desc": "QUILMES BAJO CERO CAN X6 473CC TT",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "32.702",
@@ -6684,105 +7460,120 @@
       "desc": "STA TWOPACK PATAGONIA RIEGSEE OW 300CC",
       "pisos": 6,
       "packsPiso": 71,
-      "packsPaleta": 426
+      "packsPaleta": 426,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "34.752",
       "desc": "CORONA 0.0 CAN 4X6 473CC CART",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "46.648",
       "desc": "QUILMES 0.0 CAN 4X6 473CC MUND 2026",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "46.649",
       "desc": "QUILMES CLASICA CAN 4X6 473CC MUND 2026",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "46.653",
       "desc": "QUILMES STOUT CAN 4X6 473CC MUND 2026",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "46.668",
       "desc": "MICHELOB ULTRA CAN 4X6 473CC MUND 2026",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "46.670",
       "desc": "MICHELOB ULTRA CAN X24 473CC MUND 2026",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "46.728",
       "desc": "GATORADE FRUTAS TROPICALES OW X12 473CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "46.729",
       "desc": "GATORADE NS MORAS PET X6 400CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "46.767",
       "desc": "QUILMES 0.0 CAN X6 473CC MUND 2026",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "47.067",
       "desc": "CORONA 0.0 CAN X6 473CC CART",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "47.488",
       "desc": "PDT POMELO PET X8 2000CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "47.489",
       "desc": "7UP PET X8 2000CC",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "47.627",
       "desc": "MICHELOB ULTRA OW 4X6 275CC EXP AR",
       "pisos": 7,
       "packsPiso": 13,
-      "packsPaleta": 91
+      "packsPaleta": 91,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "49.647",
       "desc": "QUILMES CLASICA CAN 4X4 710CC MUNDIAL 2026",
       "pisos": 8,
       "packsPiso": 12,
-      "packsPaleta": 96
+      "packsPaleta": 96,
+      "pesoPaleta": 1.127
     },
     {
       "sku": "76.341",
@@ -6796,14 +7587,16 @@
       "desc": "BITTER CAMPARI X12 750ml",
       "pisos": 4,
       "packsPiso": 15,
-      "packsPaleta": 60
+      "packsPaleta": 60,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "76.344",
       "desc": "SPIRIT AMERICANO GANCIA 12X950ML",
       "pisos": 4,
       "packsPiso": 14,
-      "packsPaleta": 56
+      "packsPaleta": 56,
+      "pesoPaleta": 1.141
     },
     {
       "sku": "76.345",
@@ -6824,7 +7617,8 @@
       "desc": "FINCA LA LINDA MALBEC X6 750CC",
       "pisos": 5,
       "packsPiso": 22,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "76.363",
@@ -6866,28 +7660,32 @@
       "desc": "CORDERO CON PIEL DE LOBO MALBEC X6 750CC",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "76.387",
       "desc": "PERRO CALLEJERO MALBEC X6 750CC",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "76.388",
       "desc": "MOSQUITA MUERTA X3 750CC",
       "pisos": 11,
       "packsPiso": 10,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "76.389",
       "desc": "SAPO DE OTRO POZO X3 750CC",
       "pisos": 11,
       "packsPiso": 10,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "76.390",
@@ -6901,21 +7699,24 @@
       "desc": "SIDRA 1930 DEMI SEC 4X6 355CC TERMO IMP",
       "pisos": 10,
       "packsPiso": 11,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "76.398",
       "desc": "SID DOL 4X6 355",
       "pisos": 10,
       "packsPiso": 11,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "76.399",
       "desc": "SID PER 4X6 355",
       "pisos": 10,
       "packsPiso": 11,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "76.406",
@@ -6929,28 +7730,32 @@
       "desc": "SIDRA 1930 DEMI-SEC X6 355CC TERMO IMP",
       "pisos": 10,
       "packsPiso": 11,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "76.409",
       "desc": "SIDRA 1930 DOLCE x6 355CC TERMO TRANS",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "76.411",
       "desc": "MIKE´S HARD LEMONADE  6X4 355CC LATA",
       "pisos": 12,
       "packsPiso": 10,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "76.412",
       "desc": "MIKES HARD LEMONADE X24 355CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "76.433",
@@ -6964,7 +7769,8 @@
       "desc": "MANI FRITO SALADO SIN PIEL X12 340GR",
       "pisos": 6,
       "packsPiso": 12,
-      "packsPaleta": 72
+      "packsPaleta": 72,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "76.435",
@@ -6992,14 +7798,16 @@
       "desc": "OLIOVITA CLASICO BID X2 5000CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "76.439",
       "desc": "OLIOVITA CLASICO BT X12 500CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "76.440",
@@ -7034,7 +7842,8 @@
       "desc": "VINO TERMIDOR X12 1000CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "76.448",
@@ -7083,28 +7892,32 @@
       "desc": "LOLA MONTES RED BLEMD X6 750",
       "pisos": 3,
       "packsPiso": 28,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "76.473",
       "desc": "MIKE´S HARD LEMONADE POMELO CAN 6X4 355cc",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "76.474",
       "desc": "MIKE´S HARD LEMONADE POMELO X24 355cc",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "76.475",
       "desc": "GP SIDRA 1930 X2 1500CC+2VASOS",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "76.476",
@@ -7153,7 +7966,8 @@
       "desc": "VINO TORO X12 1000cc",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "76.483",
@@ -7223,42 +8037,48 @@
       "desc": "SIDRA DEL VALLE CAN X6 473CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "76.503",
       "desc": "LECHE ENTERA LARGA VIDA X12 1LT",
       "pisos": 5,
       "packsPiso": 15,
-      "packsPaleta": 75
+      "packsPaleta": 75,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "76.504",
       "desc": "LECHE ILOLAY PARC DESCREMADA X12 1LT",
       "pisos": 5,
       "packsPiso": 15,
-      "packsPaleta": 75
+      "packsPaleta": 75,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "76.505",
       "desc": "CHOCOLATADA ILOLAY 200ML X30",
       "pisos": 8,
       "packsPiso": 16,
-      "packsPaleta": 128
+      "packsPaleta": 128,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "76.506",
       "desc": "SAURUS ESTATECABERNET SAUVIGNON X6 750cc",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "76.507",
       "desc": "SAURUS ESTATE MALBEC X6 750cc",
       "pisos": 5,
       "packsPiso": 25,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "76.508",
@@ -7335,7 +8155,8 @@
       "desc": "MIKE'S HARD LEMONADE CAN X4 355CC",
       "pisos": 10,
       "packsPiso": 12,
-      "packsPaleta": 120
+      "packsPaleta": 120,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "76.520",
@@ -7349,35 +8170,40 @@
       "desc": "SIDRA 1930 ROSE CAN X6 355CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "76.526",
       "desc": "SIDRA DEL VALLE CAN X24 473CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "76.527",
       "desc": "SIDRA DEL VALLE CAN X6 473CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "76.528",
       "desc": "SIDRA DEL VALLE ANANA CAN 4X6 473CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "76.530",
       "desc": "SIDRA DEL VALLE FRESA CAN 4X6 473CC",
       "pisos": 10,
       "packsPiso": 9,
-      "packsPaleta": 90
+      "packsPaleta": 90,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "76.531",
@@ -7398,7 +8224,8 @@
       "desc": "STA CORONA OW X1 330CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "77.676",
@@ -7412,7 +8239,8 @@
       "desc": "FAMILIA GASCON ROBLE MALBEC X6 750CC",
       "pisos": 3,
       "packsPiso": 28,
-      "packsPaleta": 84
+      "packsPaleta": 84,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "77.679",
@@ -7454,7 +8282,8 @@
       "desc": "VINO TERMIDOR BLANCO X12 1000cc",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "77.706",
@@ -7503,7 +8332,8 @@
       "desc": "SIDRA 1930 DEMI-SEC 6X4 355CC CARTULINA",
       "pisos": 10,
       "packsPiso": 11,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.312
     },
     {
       "sku": "77.726",
@@ -7538,21 +8368,24 @@
       "desc": "SIDRA 1930 PERA CAN 4X6 355CC CARTULINA",
       "pisos": 11,
       "packsPiso": 10,
-      "packsPaleta": 110
+      "packsPaleta": 110,
+      "pesoPaleta": 1.312
     },
     {
       "sku": "77.750",
       "desc": "SIDRA 1930 DOLCE CAN 6X4 355CC CARTULINA",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.312
     },
     {
       "sku": "77.751",
       "desc": "VINO TERMIDOR BLANCO X12 1000cc",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "77.768",
@@ -7594,7 +8427,8 @@
       "desc": "LECHE PARC DESCREMADA TRES NIÑAS X12 1LT",
       "pisos": 6,
       "packsPiso": 15,
-      "packsPaleta": 90
+      "packsPaleta": 90,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "77.784",
@@ -7622,14 +8456,16 @@
       "desc": "LECHE ENTERA VERONICA x12 1LT",
       "pisos": 6,
       "packsPiso": 15,
-      "packsPaleta": 90
+      "packsPaleta": 90,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "77.788",
       "desc": "LECHE DESCREMADA VERONICA x12 1LT",
       "pisos": 6,
       "packsPiso": 15,
-      "packsPaleta": 90
+      "packsPaleta": 90,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "77.790",
@@ -7699,7 +8535,8 @@
       "desc": "STA TWOPACK PATAGONIA 0,5 ML X2",
       "pisos": 6,
       "packsPiso": 49,
-      "packsPaleta": 294
+      "packsPaleta": 294,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "77.824",
@@ -7720,7 +8557,8 @@
       "desc": "COPA STELLA ARTOIS 330CM X6",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 0
+      "packsPaleta": 0,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "77.827",
@@ -7748,7 +8586,8 @@
       "desc": "MAÑANITA 500GR",
       "pisos": 7,
       "packsPiso": 15,
-      "packsPaleta": 105
+      "packsPaleta": 105,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "77.833",
@@ -7874,7 +8713,8 @@
       "desc": "STA PLATO ILUSTRADO + COPA ANDES 0,3ml",
       "pisos": 4,
       "packsPiso": 60,
-      "packsPaleta": 240
+      "packsPaleta": 240,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "77.865",
@@ -7888,14 +8728,16 @@
       "desc": "2ESCORIHUELA GASCON + 2CIRCUS CLASICO X4",
       "pisos": 3,
       "packsPiso": 42,
-      "packsPaleta": 126
+      "packsPaleta": 126,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "77.878",
       "desc": "OTRO LOCO MAS X6 750cc",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "77.882",
@@ -7909,21 +8751,24 @@
       "desc": "SANTA JULIA MLABEC X6 750cc",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "77.894",
       "desc": "STA FRAPERA STELLA",
       "pisos": 16,
       "packsPiso": 3,
-      "packsPaleta": 48
+      "packsPaleta": 48,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "77.895",
       "desc": "VASO PATAGONIA RIESGEE X6 500cc",
       "pisos": 6,
       "packsPiso": 24,
-      "packsPaleta": 114
+      "packsPaleta": 114,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "77.898",
@@ -7937,7 +8782,8 @@
       "desc": "SANTA JULIA CABERNET X6 750cc",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "77.905",
@@ -7958,14 +8804,16 @@
       "desc": "STA TWOPACK CHALICE STELLA 330cc",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "77.916",
       "desc": "STA TWOPACK CHALICE STELLA 0,5m",
       "pisos": 6,
       "packsPiso": 60,
-      "packsPaleta": 360
+      "packsPaleta": 360,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "77.917",
@@ -7993,14 +8841,16 @@
       "desc": "SIDRA DEL VALLE CAN 4X6 CAN 473CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "77.928",
       "desc": "SIDRA 1930 ROSE CAN 4X6 355CC",
       "pisos": 10,
       "packsPiso": 13,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "77.929",
@@ -8014,14 +8864,16 @@
       "desc": "SAL ABEDUL X1000 0",
       "pisos": 15,
       "packsPiso": 20,
-      "packsPaleta": 300
+      "packsPaleta": 300,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "77.932",
       "desc": "ACEITE OLIOVITA PET X12 500cc",
       "pisos": 5,
       "packsPiso": 25,
-      "packsPaleta": 125
+      "packsPaleta": 125,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "77.934",
@@ -8042,7 +8894,8 @@
       "desc": "STA CUBIERTOS COCINA STELLA",
       "pisos": 5,
       "packsPiso": 31,
-      "packsPaleta": 155
+      "packsPaleta": 155,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "77.939",
@@ -8070,7 +8923,8 @@
       "desc": "SAL ABEDUL X1000 5GR",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "77.958",
@@ -8084,7 +8938,8 @@
       "desc": "ACEITE MAIZ ABEDUL X198 8ml",
       "pisos": 10,
       "packsPiso": 20,
-      "packsPaleta": 200
+      "packsPaleta": 200,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "77.967",
@@ -8098,28 +8953,32 @@
       "desc": "VINAGRE MANZANA ABEDUL X198 8ml",
       "pisos": 10,
       "packsPiso": 20,
-      "packsPaleta": 200
+      "packsPaleta": 200,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "77.969",
       "desc": "ACEITE OLIVA ABEDUL X198 8ml",
       "pisos": 10,
       "packsPiso": 20,
-      "packsPaleta": 200
+      "packsPaleta": 200,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "77.970",
       "desc": "MOSTAZA ABEDUL X198 8gr",
       "pisos": 10,
       "packsPiso": 20,
-      "packsPaleta": 200
+      "packsPaleta": 200,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "77.971",
       "desc": "KETCHUP ABEDUL X198 8gr",
       "pisos": 10,
       "packsPiso": 20,
-      "packsPaleta": 200
+      "packsPaleta": 200,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "77.972",
@@ -8140,7 +8999,8 @@
       "desc": "MAYONESA ABEDUL X198 8gr",
       "pisos": 10,
       "packsPiso": 20,
-      "packsPaleta": 200
+      "packsPaleta": 200,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "77.977",
@@ -8168,28 +9028,32 @@
       "desc": "SANTA JULIA CHARD C21 X6 750cc",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "77.992",
       "desc": "SANTA JULIA TINTILLO LATA 6x4 269cc",
       "pisos": 10,
       "packsPiso": 13,
-      "packsPaleta": 130
+      "packsPaleta": 130,
+      "pesoPaleta": 1.116
     },
     {
       "sku": "77.993",
       "desc": "OTRO LOCO MAS ICE X6 750cc",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "77.994",
       "desc": "DONDE MANDA CAPITAN X6 750cc",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "77.995",
@@ -8224,7 +9088,8 @@
       "desc": "VASO BRISTOL 2611 X12 340ml",
       "pisos": 9,
       "packsPiso": 17,
-      "packsPaleta": 153
+      "packsPaleta": 153,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "78.005",
@@ -8259,7 +9124,8 @@
       "desc": "PATAGONIA ISIDRA DEL VALLE OW x6 750cc",
       "pisos": 5,
       "packsPiso": 20,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.29
     },
     {
       "sku": "78.016",
@@ -8371,7 +9237,8 @@
       "desc": "PLATO PLAYO MENU 24cm NADIR X24",
       "pisos": 5,
       "packsPiso": 20,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "78.062",
@@ -8392,7 +9259,8 @@
       "desc": "STA FRAPERA STELLA ARTOIS x1",
       "pisos": 5,
       "packsPiso": 15,
-      "packsPaleta": 105
+      "packsPaleta": 105,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "78.077",
@@ -8406,7 +9274,8 @@
       "desc": "VINO MALEANTE RED BLED X6 750cc",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 0.7458
     },
     {
       "sku": "78.086",
@@ -8434,7 +9303,8 @@
       "desc": "CEPILLO LONG SOFT COLGATE x12 14 GR",
       "pisos": 10,
       "packsPiso": 28,
-      "packsPaleta": 280
+      "packsPaleta": 280,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "78.110",
@@ -8455,7 +9325,8 @@
       "desc": "STRIPTIZ SPRIT MARACUYA CAN 6X4 355CC",
       "pisos": 13,
       "packsPiso": 9,
-      "packsPaleta": 117
+      "packsPaleta": 117,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "78.128",
@@ -8490,7 +9361,8 @@
       "desc": "MIKES HARD LEMONADE POMELO CAN X4 355CC",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": null
+      "packsPaleta": null,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "78.138",
@@ -8532,7 +9404,8 @@
       "desc": "NIEMPEDO X6 750CC",
       "pisos": 5,
       "packsPiso": 20,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "78.159",
@@ -8588,7 +9461,8 @@
       "desc": "STA TABLA + RUEDA PIZZA STELLA ARTOIS",
       "pisos": 15,
       "packsPiso": 9,
-      "packsPaleta": 135
+      "packsPaleta": 135,
+      "pesoPaleta": 1.145
     },
     {
       "sku": "78.181",
@@ -8602,7 +9476,8 @@
       "desc": "DILEMA NO HAY TAL MAL MALBEC X6 750cc",
       "pisos": 5,
       "packsPiso": 28,
-      "packsPaleta": 140
+      "packsPaleta": 140,
+      "pesoPaleta": 1.215
     },
     {
       "sku": "78.185",
@@ -8637,7 +9512,8 @@
       "desc": "ACEITE OLIOVITA OW X3 500cc",
       "pisos": null,
       "packsPiso": null,
-      "packsPaleta": 125
+      "packsPaleta": 125,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "78.202",
@@ -8651,14 +9527,16 @@
       "desc": "CUCHILLO DYNAMIC TRAMONTINA",
       "pisos": 13,
       "packsPiso": 12,
-      "packsPaleta": 156
+      "packsPaleta": 156,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "78.207",
       "desc": "TENEDOR DYMANIC TRAMONT",
       "pisos": 13,
       "packsPiso": 12,
-      "packsPaleta": 156
+      "packsPaleta": 156,
+      "pesoPaleta": 1.232
     },
     {
       "sku": "78.211",
@@ -8728,7 +9606,8 @@
       "desc": "CEBADA PERLADA GAUCHADA X10 500gr",
       "pisos": 4,
       "packsPiso": 9,
-      "packsPaleta": 36
+      "packsPaleta": 36,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "78.235",
@@ -8749,21 +9628,24 @@
       "desc": "STRIPTIZ SPRIT TINTO VER CAN 6X4 355CC",
       "pisos": 9,
       "packsPiso": 13,
-      "packsPaleta": 117
+      "packsPaleta": 117,
+      "pesoPaleta": 1.203
     },
     {
       "sku": "78.252",
       "desc": "PAN DULCE CON FRUTAS MUSEL X8 500GR",
       "pisos": 7,
       "packsPiso": 6,
-      "packsPaleta": 42
+      "packsPaleta": 42,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "78.252",
       "desc": "PAN DULCE CON FRUTAS MUSEL X8 500gr",
       "pisos": 7,
       "packsPiso": 6,
-      "packsPaleta": 42
+      "packsPaleta": 42,
+      "pesoPaleta": 1.043
     },
     {
       "sku": "78.256",
@@ -8798,7 +9680,8 @@
       "desc": "STA TWOPACK PATAGONIA RIESGEE 0,5",
       "pisos": 6,
       "packsPiso": 49,
-      "packsPaleta": 294
+      "packsPaleta": 294,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "78.267",
@@ -8889,21 +9772,24 @@
       "desc": "QUILMES STOUT RET X12 1L MUND 2026",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "46.630",
       "desc": "QUILMES IPA RET X12 1L MUND 2026",
       "pisos": 5,
       "packsPiso": 10,
-      "packsPaleta": 50
+      "packsPaleta": 50,
+      "pesoPaleta": 1.147
     },
     {
       "sku": "46.647",
       "desc": "QUILMES IPA CAN 4X6 473CC MUND 2026",
       "pisos": 10,
       "packsPiso": 10,
-      "packsPaleta": 100
+      "packsPaleta": 100,
+      "pesoPaleta": 1.249
     },
     {
       "sku": "78.286",
