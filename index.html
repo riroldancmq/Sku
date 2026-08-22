@@ -1051,9 +1051,8 @@ function loadData() {
 }
 
 function saveData() {
-  // Los cambios solo viven en esta sesión.
-  // El admin debe exportar el JSON y subirlo a GitHub para que todos los vean.
-  // No guardamos en localStorage para evitar conflictos con el JSON de GitHub.
+  // Copia offline para cuando Supabase no responde al abrir la app.
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify({ filters: FILTER_GROUPS, products: db })); } catch(e) {}
 }
 
 // Carga inicial: productos.json es la fuente de verdad.
@@ -1088,9 +1087,10 @@ async function initDB() {
         .sort((a, b) => (a.sort_order || 0) - (b.sort_order || 0))
         .map(b => ({ label: b.label, key: b.key }))
     }));
-    try { localStorage.setItem(STORAGE_KEY, JSON.stringify({ filters: FILTER_GROUPS, products: db })); } catch(e) {}
+    saveData();
   } catch(e) {
     console.log('Supabase no disponible, usando copia local:', e && e.message);
+    showToast('⚠️ Sin conexión: mostrando la última copia guardada');
     let saved = null;
     try { saved = JSON.parse(localStorage.getItem(STORAGE_KEY)); } catch(_) {}
     if (saved && saved.products && saved.filters) {
@@ -1535,12 +1535,14 @@ async function saveProduct() {
     const { error } = await sb.from('products').update(payload).eq('id', db[editIdx].id);
     if (error) { showToast('❌ Error al guardar: ' + error.message); return; }
     Object.assign(db[editIdx], { sku, desc, pisos, packsPiso, packsPaleta });
+    saveData();
     showToast('✅ Producto actualizado');
   } else {
     if (db.find(p => p.sku === sku)) { showToast('⚠️ Ya existe ese SKU'); return; }
     const { data, error } = await sb.from('products').insert(payload).select().single();
     if (error) { showToast('❌ Error al agregar: ' + error.message); return; }
     db.unshift(mapProduct(data));
+    saveData();
     showToast('✅ Producto agregado');
   }
   closeModalById('formModal');
