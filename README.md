@@ -105,7 +105,7 @@ Estado global principal: `db` (array de productos), `FILTER_GROUPS` (filtros), `
 
 ### 🛠️ Modificar código de la app
 1. Editar `index.html` (todo vive ahí).
-2. **Si cambió algo del HTML/CSS/JS visible: subir `CACHE_NAME` en `service-worker.js`** (actualmente `sku-quilmes-v3` → pasar a `v4`). Sin este paso los celulares pueden seguir viendo la versión vieja cacheada.
+2. **Si cambió algo del HTML/CSS/JS visible: subir `CACHE_NAME` en `service-worker.js`** (actualmente `sku-quilmes-v8` → pasar a `v9`). Sin este paso los celulares pueden seguir viendo la versión vieja cacheada.
 3. Commit + push a `main`.
 4. Vercel deploya automáticamente (~30 seg) → listo.
 
@@ -124,6 +124,11 @@ El PDF de presentación y sus imágenes viven solo en local (`presentacion-sku.p
 
 | Fecha | Commit | Cambio |
 |---|---|---|
+| 22/08/2026 | `f3a71bc` | Paginación en `initDB()`: la API de Supabase corta las respuestas en 1000 filas, por lo que los productos con id > 1000 nunca cargaban. SW → v8. |
+| 22/08/2026 | `b17f9fe` | SW *network-first* para navegaciones: la página se actualiza sola cuando hay internet (la caché queda solo como fallback offline). SW → v7. |
+| 22/08/2026 | `4103fc5` | La copia offline de localStorage se actualiza al agregar/editar/borrar productos + aviso visible ("Sin conexión") al arrancar con el fallback. SW → v6. |
+| 22/08/2026 | `66ff3d8` | Matching de filtros por clave con límites de palabra (`\b`): RB ya no matchea yerba/carbónico; los espacios en la clave son flexibles. SW → v5. |
+| 22/08/2026 | `eaef867` | Los filtros aceptan claves múltiples separadas por coma (ej: clave `RED BULL,RB` = un solo chip para ambas variantes). SW → v4. |
 | 21/08/2026 | `41d87ff` | Eliminado el botón "⬇ JSON" del panel admin. SW → v3. |
 | 21/08/2026 | `2f4a6d4` | Eliminado por completo el feature "peso de paletas" (UI + datos). Reemplazado login con contraseña fija por Supabase Auth (email + contraseña). Datos movidos a Supabase (lectura pública / escritura autenticada). Cache offline con localStorage. SW → v2. |
 
