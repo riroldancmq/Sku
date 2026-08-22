@@ -1,4 +1,4 @@
-const CACHE_NAME = 'sku-quilmes-v6';
+const CACHE_NAME = 'sku-quilmes-v7';
 const ASSETS = [
   './index.html',
   './productos.json',
@@ -24,16 +24,36 @@ self.addEventListener('activate', event => {
 });
 
 self.addEventListener('fetch', event => {
-  event.respondWith(
-    caches.match(event.request).then(cached => {
-      return cached || fetch(event.request).then(response => {
+  const req = event.request;
+
+  // Navegación (index.html): primero red, caché solo como fallback offline.
+  // Así los celulares reciben la versión nueva apenas hay internet.
+  if (req.mode === 'navigate' || req.destination === 'document') {
+    event.respondWith(
+      fetch(req).then(response => {
         if (response && response.status === 200 && response.type === 'basic') {
           const clone = response.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
+          caches.open(CACHE_NAME).then(cache => cache.put(req, clone));
+        }
+        return response;
+      }).catch(() =>
+        caches.match(req).then(cached => cached || caches.match('./index.html'))
+      )
+    );
+    return;
+  }
+
+  // Resto de recursos: cache-first (estáticos que casi nunca cambian).
+  event.respondWith(
+    caches.match(req).then(cached => {
+      return cached || fetch(req).then(response => {
+        if (response && response.status === 200 && response.type === 'basic') {
+          const clone = response.clone();
+          caches.open(CACHE_NAME).then(cache => cache.put(req, clone));
         }
         return response;
       }).catch(() => {
-        if (event.request.destination === 'document') {
+        if (req.destination === 'document') {
           return caches.match('./index.html');
         }
       });
