@@ -1307,7 +1307,7 @@ function render() {
     const desc = (p.desc || '').toUpperCase();
     const sku = formatSku(p.sku || '');
     const matchQ = !q || desc.toLowerCase().includes(q) || sku.includes(q);
-    const matchF = activeFilter === 'TODOS' || desc.includes(activeFilter);
+    const matchF = activeFilter === 'TODOS' || activeFilter.split(',').some(k => desc.includes(k.trim()));
     return matchQ && matchF;
   });
 
