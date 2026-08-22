@@ -1307,7 +1307,12 @@ function render() {
     const desc = (p.desc || '').toUpperCase();
     const sku = formatSku(p.sku || '');
     const matchQ = !q || desc.toLowerCase().includes(q) || sku.includes(q);
-    const matchF = activeFilter === 'TODOS' || activeFilter.split(',').some(k => desc.includes(k.trim()));
+    const matchF = activeFilter === 'TODOS' || activeFilter.split(',').some(k => {
+      const t = k.trim();
+      if (!t) return false;
+      const re = new RegExp('\\b' + t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '\\s*') + '\\b');
+      return re.test(desc);
+    });
     return matchQ && matchF;
   });
 

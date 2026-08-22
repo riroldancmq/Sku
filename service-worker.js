@@ -1,4 +1,4 @@
-const CACHE_NAME = 'sku-quilmes-v4';
+const CACHE_NAME = 'sku-quilmes-v5';
 const ASSETS = [
   './index.html',
   './productos.json',
