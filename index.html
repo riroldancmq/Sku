@@ -917,7 +917,21 @@
     <input class="login-input" id="loginInput" type="password" placeholder="••••••••" autocomplete="current-password"
       onkeydown="if(event.key==='Enter') doLogin()">
     <button class="login-btn" onclick="doLogin()">INGRESAR</button>
+    <button class="login-cancel" onclick="forgotPass()" style="color:var(--accent)">Olvidé mi contraseña</button>
     <button class="login-cancel" onclick="closeLogin()">Cancelar</button>
+  </div>
+</div>
+
+<!-- PANTALLA NUEVA CONTRASEÑA (llega desde el mail de recuperación) -->
+<div class="login-overlay" id="resetModal">
+  <div class="login-box">
+    <div class="login-icon">🔑</div>
+    <div class="login-title">Nueva contraseña</div>
+    <div class="login-sub">Elegí una contraseña nueva para tu usuario admin</div>
+    <input class="login-input" id="resetInput" type="password" placeholder="••••••••" autocomplete="new-password"
+      onkeydown="if(event.key==='Enter') saveNewPassword()">
+    <button class="login-btn" onclick="saveNewPassword()">GUARDAR CONTRASEÑA</button>
+    <button class="login-cancel" onclick="cancelReset()">Cancelar</button>
   </div>
 </div>
 
@@ -1014,6 +1028,68 @@ async function doLogin() {
 
 function closeLogin() {
   document.getElementById('loginModal').classList.remove('open');
+}
+
+// ---- RECUPERACIÓN DE CONTRASEÑA ----
+async function forgotPass() {
+  const email = document.getElementById('loginEmail').value.trim();
+  if (!email) {
+    const inp = document.getElementById('loginInput');
+    inp.classList.add('error');
+    document.getElementById('loginSub').textContent = 'Escribí tu email arriba para enviarte el link';
+    setTimeout(() => {
+      inp.classList.remove('error');
+      document.getElementById('loginSub').textContent = 'Ingresá tus credenciales para editar';
+    }, 2500);
+    return;
+  }
+  const { error } = await sb.auth.resetPasswordForEmail(email, { redirectTo: location.origin + location.pathname });
+  if (error) { showToast('❌ No se pudo enviar el mail: ' + error.message); return; }
+  closeLogin();
+  showToast('📧 Revisá tu mail para restablecer la contraseña');
+}
+
+// Si la app se abre desde el link del mail de recuperación,
+// Supabase emite este evento y mostramos la pantalla de nueva contraseña.
+sb.auth.onAuthStateChange((event) => {
+  if (event === 'PASSWORD_RECOVERY') {
+    closeLogin();
+    const inp = document.getElementById('resetInput');
+    inp.value = '';
+    inp.classList.remove('error');
+    document.getElementById('resetModal').classList.add('open');
+    setTimeout(() => inp.focus(), 200);
+  }
+});
+
+async function saveNewPassword() {
+  const inp = document.getElementById('resetInput');
+  const pass = inp.value;
+  if (!pass || pass.length < 6) {
+    inp.classList.add('error');
+    inp.value = '';
+    showToast('⚠️ Mínimo 6 caracteres');
+    setTimeout(() => inp.classList.remove('error'), 1500);
+    return;
+  }
+  const { error } = await sb.auth.updateUser({ password: pass });
+  if (error) {
+    inp.classList.add('error');
+    showToast('❌ Error: ' + error.message);
+    setTimeout(() => inp.classList.remove('error'), 1500);
+    return;
+  }
+  document.getElementById('resetModal').classList.remove('open');
+  history.replaceState(null, '', location.pathname + location.search);
+  isAdmin = true;
+  applyAdminUI();
+  showToast('✅ Contraseña actualizada');
+}
+
+function cancelReset() {
+  document.getElementById('resetModal').classList.remove('open');
+  // Limpia la sesión temporal que dejó el link de recuperación
+  sb.auth.signOut();
 }
 
 function applyAdminUI() {
