@@ -105,7 +105,7 @@ Estado global principal: `db` (array de productos), `FILTER_GROUPS` (filtros), `
 
 ### 🛠️ Modificar código de la app
 1. Editar `index.html` (todo vive ahí).
-2. **Si cambió algo del HTML/CSS/JS visible: subir `CACHE_NAME` en `service-worker.js`** (actualmente `sku-quilmes-v8` → pasar a `v9`). Sin este paso los celulares pueden seguir viendo la versión vieja cacheada.
+2. **Si cambió algo del HTML/CSS/JS visible: subir `CACHE_NAME` en `service-worker.js`** (actualmente `sku-quilmes-v9` → pasar a `v10`). Sin este paso los celulares pueden seguir viendo la versión vieja cacheada.
 3. Commit + push a `main`.
 4. Vercel deploya automáticamente (~30 seg) → listo.
 
@@ -124,6 +124,7 @@ El PDF de presentación y sus imágenes viven solo en local (`presentacion-sku.p
 
 | Fecha | Commit | Cambio |
 |---|---|---|
+| 24/08/2026 | `6693073` | Recuperación de contraseña admin: botón "Olvidé mi contraseña" en el login + pantalla de nueva contraseña que se abre sola al entrar desde el mail (evento `PASSWORD_RECOVERY`). SW → v9. |
 | 22/08/2026 | `f3a71bc` | Paginación en `initDB()`: la API de Supabase corta las respuestas en 1000 filas, por lo que los productos con id > 1000 nunca cargaban. SW → v8. |
 | 22/08/2026 | `b17f9fe` | SW *network-first* para navegaciones: la página se actualiza sola cuando hay internet (la caché queda solo como fallback offline). SW → v7. |
 | 22/08/2026 | `4103fc5` | La copia offline de localStorage se actualiza al agregar/editar/borrar productos + aviso visible ("Sin conexión") al arrancar con el fallback. SW → v6. |
