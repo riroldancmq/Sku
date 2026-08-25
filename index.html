@@ -802,6 +802,26 @@
     border-radius: 10px;
     letter-spacing: 0.5px;
   }
+
+  /* MODO ESCRITORIO: la app se muestra con ancho de celular, centrada */
+  @media (min-width: 600px) {
+    body {
+      background: #08080c;
+    }
+
+    .header,
+    .results-bar,
+    .list {
+      max-width: 430px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .modal {
+      max-width: 430px;
+      margin: 0 auto;
+    }
+  }
 </style>
 </head>
 <body>
