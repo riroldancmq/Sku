@@ -124,6 +124,7 @@ El PDF de presentación y sus imágenes viven solo en local (`presentacion-sku.p
 
 | Fecha | Commit | Cambio |
 |---|---|---|
+| 27/08/2026 | `cf674f3` | Scrollbars ocultos a nivel global (`html { scrollbar-width: none }` + `::-webkit-scrollbar { display: none }`): se veían en el webview del simulador de VS Code y en PC, pero en celulares reales no. SW → v11. |
 | 24/08/2026 | `2cfafa5` | En PC (≥600px) la app se muestra como columna de 430px centrada con ancho de celular; en teléfonos no cambia nada. SW → v10. |
 | 24/08/2026 | `6693073` | Recuperación de contraseña admin: botón "Olvidé mi contraseña" en el login + pantalla de nueva contraseña que se abre sola al entrar desde el mail (evento `PASSWORD_RECOVERY`). SW → v9. |
 | 22/08/2026 | `f3a71bc` | Paginación en `initDB()`: la API de Supabase corta las respuestas en 1000 filas, por lo que los productos con id > 1000 nunca cargaban. SW → v8. |
