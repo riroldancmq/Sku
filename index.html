@@ -892,7 +892,7 @@
     <div class="modal-divider"></div>
     <div class="modal-actions" id="adminActions" style="display:none">
       <button class="btn-edit" onclick="openEdit(currentIdx)">✏️ Editar producto</button>
-      <button class="btn-delete" onclick="deleteProduct(currentIdx)">🗑️</button>
+      <button class="btn-delete" onclick="openDeleteConfirm(currentIdx)">🗑️</button>
     </div>
   </div>
 </div>
@@ -930,6 +930,36 @@
     </div>
     <button class="btn-save" onclick="saveProduct()">GUARDAR PRODUCTO</button>
     <div style="height:10px"></div>
+  </div>
+</div>
+
+<!-- CONFIRMACIÓN DE ELIMINACIÓN DE PRODUCTO -->
+<div class="modal-overlay" id="confirmDeleteModal" onclick="closeModal(event, 'confirmDeleteModal')">
+  <div class="modal">
+    <div class="modal-handle"></div>
+    <div class="modal-header">
+      <span class="modal-sku-badge" style="background:#ff6060">⚠️ ELIMINAR</span>
+      <button class="modal-close" onclick="closeModalById('confirmDeleteModal')">✕</button>
+    </div>
+    <div class="modal-title" style="font-size:26px">Eliminar producto</div>
+    <div style="padding:14px 20px 0">
+      <div style="background:var(--card);border:1.5px solid var(--border);border-radius:12px;padding:14px">
+        <div style="display:flex;align-items:center;gap:10px;margin-bottom:10px">
+          <span class="modal-sku-badge" id="cdSku" style="font-size:18px;padding:4px 12px"></span>
+          <span id="cdDesc" style="font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:19px;line-height:1.2"></span>
+        </div>
+        <div class="card-pills">
+          <div class="pill"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#2dd4a0;margin-right:4px;vertical-align:middle"></span>Pisos <span class="val" id="cdPisos"></span></div>
+          <div class="pill"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#378add;margin-right:4px;vertical-align:middle"></span>Bultos <span class="val" id="cdPacksPiso"></span></div>
+          <div class="pill">📦 Total <span class="val" id="cdPacksPaleta"></span></div>
+        </div>
+      </div>
+      <p style="text-align:center;font-size:14px;color:#ff6060;margin-top:14px;font-family:'Barlow Condensed',sans-serif;font-weight:600">Esta acción no se puede deshacer.</p>
+    </div>
+    <div class="modal-actions">
+      <button class="btn-edit" onclick="cancelDelete()">Cancelar</button>
+      <button class="btn-delete" onclick="confirmDelete()">🗑️ Eliminar</button>
+    </div>
   </div>
 </div>
 
@@ -1799,8 +1829,29 @@ async function saveProduct() {
   render();
 }
 
-async function deleteProduct(idx) {
-  if (!confirm('¿Eliminar este producto?')) return;
+// ---- CONFIRMACIÓN DE ELIMINACIÓN DE PRODUCTO ----
+let pendingDeleteIdx = -1;
+
+function openDeleteConfirm(idx) {
+  const p = db[idx];
+  if (!p) return;
+  pendingDeleteIdx = idx;
+  document.getElementById('cdSku').textContent = 'SKU ' + formatSku(p.sku);
+  document.getElementById('cdDesc').textContent = p.desc || 'Sin descripción';
+  document.getElementById('cdPisos').textContent = p.pisos != null ? p.pisos : '—';
+  document.getElementById('cdPacksPiso').textContent = p.packsPiso != null ? p.packsPiso : '—';
+  document.getElementById('cdPacksPaleta').textContent = p.packsPaleta != null ? p.packsPaleta : '—';
+  document.getElementById('confirmDeleteModal').classList.add('open');
+}
+
+function cancelDelete() {
+  pendingDeleteIdx = -1;
+  closeModalById('confirmDeleteModal');
+}
+
+async function confirmDelete() {
+  const idx = pendingDeleteIdx;
+  if (idx < 0) { closeModalById('confirmDeleteModal'); return; }
   const p = db[idx];
   if (p && p.id != null) {
     const { error } = await insforge.database.from('products').delete().eq('id', p.id);
@@ -1808,6 +1859,8 @@ async function deleteProduct(idx) {
   }
   db.splice(idx, 1);
   saveData();
+  pendingDeleteIdx = -1;
+  closeModalById('confirmDeleteModal');
   closeModalById('detailModal');
   showToast('🗑️ Producto eliminado');
   render();

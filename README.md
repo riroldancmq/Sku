@@ -98,7 +98,8 @@ Las secciones están marcadas con comentarios `// ---- SECCIÓN ----`. Funciones
 | `buildFilters()` | Construye los chips de categorías y sub-chips de marcas dinámicamente. |
 | `openDetail(idx)` | Abre el modal de ficha del producto con el dibujo SVG de la paleta. |
 | `saveProduct()` (async) | UPDATE o INSERT directo en InsForge (alta/edición desde formulario). El insert va en array: `insert([payload])`. |
-| `deleteProduct()` (async) | DELETE en InsForge con confirmación previa. |
+| `openDeleteConfirm(idx)` | Abre el modal de confirmación de borrado con el resumen del producto (SKU, descripción, pisos/bultos/total). |
+| `confirmDelete()` (async) | Ejecuta el DELETE en InsForge (o solo local si no hay conexión), cierra modales, toast y re-render. |
 | `guardarFiltros()` (async) | Borra y regenera grupos/marcas de filtros en InsForge (modal admin 🗂️). |
 | `toggleAdmin()` / `doLogin()` | Autenticación por email+contraseña vía `insforge.auth.signInWithPassword`. |
 | `forgotPass()` / `saveNewPassword()` | Recuperación de contraseña por **código de 6 dígitos**: `sendResetPasswordEmail()` → `exchangeResetPasswordToken()` → `resetPassword()`. |
@@ -115,7 +116,7 @@ Estado global principal: `db` (array de productos), `FILTER_GROUPS` (filtros), `
 
 ### 🛠️ Modificar código de la app
 1. Editar `index.html` (todo vive ahí).
-2. **Si cambió algo del HTML/CSS/JS visible: subir `CACHE_NAME` en `service-worker.js`** (actualmente `sku-quilmes-v12` → pasar a `v13`). Sin este paso los celulares pueden seguir viendo la versión vieja cacheada.
+2. **Si cambió algo del HTML/CSS/JS visible: subir `CACHE_NAME` en `service-worker.js`** (actualmente `sku-quilmes-v15` → pasar a `v16`). Sin este paso los celulares pueden seguir viendo la versión vieja cacheada.
 3. Commit + push a `main`.
 4. Vercel deploya automáticamente (~30 seg) → listo.
 
@@ -140,7 +141,8 @@ El PDF de presentación y sus imágenes viven solo en local (`presentacion-sku.p
 
 | Fecha | Commit | Cambio |
 |---|---|---|
-| 08/10/2026 | (este cambio) | **Migración de Supabase → InsForge.** Backend nuevo: proyecto `sku-quilmes` (Postgres + RLS + GRANTs + auth por email). `index.html` usa el SDK de InsForge por CDN (la capa de datos es la misma de PostgREST). Recuperación de contraseña por código de 6 dígitos. **Bug crítico arreglado:** el array de fallback embebido tenía 533 valores `None` (inválidos en JS) → si no había conexión ni snapshot válido, la lista quedaba vacía. Ahora valida snapshot no vacío y cae al embebido (1298 productos). `supabase-setup.sql` queda como histórico. SW → v12. |
+| 09/10/2026 | (este cambio) | Confirmación de eliminación con modal propio (tema de la app) en vez del `confirm()` nativo: muestra resumen del producto (SKU, descripción, pisos/bultos/total) antes de borrar. SW → v15. |
+| 08/10/2026 | `83e3343` | **Migración de Supabase → InsForge.** Backend nuevo: proyecto `sku-quilmes` (Postgres + RLS + GRANTs + auth por email). `index.html` usa el SDK de InsForge por CDN (la capa de datos es la misma de PostgREST). Recuperación de contraseña por código de 6 dígitos. **Bug crítico arreglado:** el array de fallback embebido tenía 533 valores `None` (inválidos en JS) → si no había conexión ni snapshot válido, la lista quedaba vacía. Ahora valida snapshot no vacío y cae al embebido (1298 productos). `supabase-setup.sql` queda como histórico. SW → v12. |
 | 27/08/2026 | `cf674f3` | Scrollbars ocultos a nivel global (`html { scrollbar-width: none }` + `::-webkit-scrollbar { display: none }`): se veían en el webview del simulador de VS Code y en PC, pero en celulares reales no. SW → v11. |
 | 24/08/2026 | `2cfafa5` | En PC (≥600px) la app se muestra como columna de 430px centrada con ancho de celular; en teléfonos no cambia nada. SW → v10. |
 | 24/08/2026 | `6693073` | Recuperación de contraseña admin: botón "Olvidé mi contraseña" en el login + pantalla de nueva contraseña que se abre sola al entrar desde el mail (evento `PASSWORD_RECOVERY`). SW → v9. |
