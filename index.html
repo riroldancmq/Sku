@@ -812,6 +812,113 @@
     letter-spacing: 0.5px;
   }
 
+  /* SELECCIÓN MÚLTIPLE (borrado en lote) */
+  .card {
+    position: relative;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+  }
+
+  .card:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  .card.selected {
+    outline: 3px solid #FFB21C;
+  }
+
+  .card.selected:focus-visible {
+    outline-color: #ffd98a;
+  }
+
+  .card-check {
+    display: none;
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    background: #FFB21C;
+    color: #000;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .card.selected .card-check {
+    display: flex;
+  }
+
+  .card.selected .card-arrow {
+    display: none;
+  }
+
+  /* BARRA DE ACCIONES DE SELECCIÓN */
+  .select-bar {
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 16px;
+    width: min(430px, calc(100% - 24px));
+    max-width: 430px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--surface);
+    border: 1.5px solid var(--border);
+    border-radius: 14px;
+    padding: 10px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.55);
+    z-index: 150;
+    box-sizing: border-box;
+  }
+
+  .select-bar[hidden] {
+    display: none;
+  }
+
+  .select-bar-delete {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background: #ff6060;
+    color: #000;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    padding: 12px 16px;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .select-bar-close {
+    width: 38px;
+    height: 38px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--card);
+    color: var(--muted);
+    border: 1.5px solid var(--border);
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+  }
+
   /* MODO ESCRITORIO: la app se muestra con ancho de celular, centrada */
   @media (min-width: 600px) {
     body {
@@ -862,6 +969,12 @@
 </div>
 
 <div class="list" id="list"></div>
+
+<!-- BARRA DE ACCIONES DE SELECCIÓN MÚLTIPLE -->
+<div class="select-bar" id="selectBar" hidden>
+  <button type="button" class="select-bar-delete" id="deleteSelBtn" onclick="openDeleteBulk()">🗑 Eliminar (0)</button>
+  <button type="button" class="select-bar-close" onclick="exitSelectMode()" aria-label="Salir del modo selección">✕</button>
+</div>
 
 <!-- VENTANA DE DETALLE DEL PRODUCTO -->
 <div class="modal-overlay" id="detailModal" onclick="closeModal(event, 'detailModal')">
@@ -963,6 +1076,27 @@
   </div>
 </div>
 
+<!-- CONFIRMACIÓN DE BORRADO MÚLTIPLE -->
+<div class="modal-overlay" id="confirmDeleteBulkModal" onclick="closeModal(event, 'confirmDeleteBulkModal')">
+  <div class="modal">
+    <div class="modal-handle"></div>
+    <div class="modal-header">
+      <span class="modal-sku-badge" style="background:#ff6060">⚠️ ELIMINAR</span>
+      <button class="modal-close" onclick="cancelDeleteBulk()">✕</button>
+    </div>
+    <div class="modal-title" style="font-size:26px">Eliminar <span id="bulkCount">0</span> productos</div>
+    <div style="padding:14px 20px 0">
+      <div class="modal-section-title" style="padding:0 0 10px">SE VA A ELIMINAR:</div>
+      <div id="bulkList" style="display:flex;flex-direction:column;gap:6px;max-height:38vh;overflow-y:auto;padding-right:2px"></div>
+      <p style="text-align:center;font-size:14px;color:#ff6060;margin-top:14px;font-family:'Barlow Condensed',sans-serif;font-weight:600">Esta acción no se puede deshacer.</p>
+    </div>
+    <div class="modal-actions">
+      <button class="btn-edit" onclick="cancelDeleteBulk()">Cancelar</button>
+      <button class="btn-delete" onclick="confirmDeleteBulk()">🗑 Eliminar</button>
+    </div>
+  </div>
+</div>
+
 <div class="toast" id="toast"></div>
 
 <!-- PANTALLA DE LOGIN ADMINISTRADOR -->
@@ -1050,6 +1184,7 @@ async function toggleAdmin() {
     // Cerrar sesión
     if (insforge) await insforge.auth.signOut();
     isAdmin = false;
+    if (selectMode) exitSelectMode();
     applyAdminUI();
     showToast('🔒 Sesión cerrada');
   } else {
@@ -1605,14 +1740,18 @@ function render() {
     return;
   }
 
-  list.innerHTML = filtered.map((p, i) => {
+  list.innerHTML = filtered.map(p => {
     const pisos = p.pisos != null ? p.pisos : '—';
     const packsPiso = p.packsPiso != null ? p.packsPiso : '—';
     const packsPaleta = p.packsPaleta != null ? p.packsPaleta : '—';
-    return `<div class="card" onclick="openDetail(${db.indexOf(p)})">
+    const key = productKey(p);
+    const selected = selectedIds.has(key);
+    const idx = db.indexOf(p);
+    const skuTxt = formatSku(p.sku);
+    return `<div class="card${selected ? ' selected' : ''}" data-key="${escapeAttr(key)}" data-idx="${idx}" role="button" tabindex="0" aria-pressed="${selectMode ? selected : false}" aria-label="${escapeAttr('SKU ' + skuTxt + ' · ' + (p.desc || 'Sin descripción'))}">
       <div class="card-sku">
         <div class="sku-label">SKU</div>
-        <div class="sku-val">${formatSku(p.sku)}</div>
+        <div class="sku-val">${skuTxt}</div>
       </div>
       <div class="card-body">
         <div class="card-desc">${p.desc || 'Sin descripción'}</div>
@@ -1622,10 +1761,151 @@ function render() {
           <div class="pill">📦 Total <span class="val">${packsPaleta}</span></div>
         </div>
       </div>
+      <button type="button" class="card-check" tabindex="-1" aria-label="Marcar o desmarcar SKU ${escapeAttr(skuTxt)}" aria-pressed="${selected}"><span aria-hidden="true">✓</span></button>
       <div class="card-arrow">›</div>
     </div>`;
   }).join('');
 }
+
+// ---- SELECCIÓN MÚLTIPLE (borrado en lote, solo admin) ----
+let selectMode = false;
+const selectedIds = new Set();
+const listEl = document.getElementById('list');
+
+// Clave estable por producto: usa el id de la base; el fallback offline usa el SKU.
+function productKey(p) {
+  if (p && p.id != null && p.id !== '') return 'id:' + p.id;
+  return 'sku:' + String((p && p.sku != null) ? p.sku : '').trim();
+}
+
+function escapeAttr(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function syncSelectedUI() {
+  listEl.querySelectorAll('.card').forEach(c => {
+    const on = selectedIds.has(c.dataset.key);
+    c.classList.toggle('selected', on);
+    c.setAttribute('aria-pressed', String(on));
+  });
+  updateSelectBar();
+}
+
+function toggleSelection(key) {
+  if (!isAdmin) return;
+  if (selectedIds.has(key)) selectedIds.delete(key);
+  else selectedIds.add(key);
+  syncSelectedUI();
+}
+
+function enterSelectMode(key) {
+  if (!isAdmin) return;
+  selectMode = true;
+  if (key) selectedIds.add(key);
+  showToast('Modo selección: tocá las tarjetas que quieras eliminar');
+  syncSelectedUI();
+}
+
+function updateSelectBar() {
+  const bar = document.getElementById('selectBar');
+  if (!bar) return;
+  const n = selectedIds.size;
+  document.getElementById('deleteSelBtn').textContent = '🗑 Eliminar (' + n + ')';
+  bar.hidden = !selectMode;
+}
+
+function exitSelectMode() {
+  selectMode = false;
+  selectedIds.clear();
+  updateSelectBar();
+  render();
+}
+
+// Detección de presión sostenida (long-press) para activar el modo selección
+let pressTimer = null;
+let pressCard = null;
+let pressXY = null;
+let pressMoved = false;
+let suppressClickUntil = 0;
+
+function clearPress() {
+  if (pressTimer) { clearTimeout(pressTimer); pressTimer = null; }
+  pressCard = null;
+  pressXY = null;
+  pressMoved = false;
+}
+
+listEl.addEventListener('pointerdown', e => {
+  const card = e.target.closest('.card');
+  if (!card || e.button !== 0 || !isAdmin) return;
+  clearPress();
+  pressCard = card;
+  pressXY = [e.clientX, e.clientY];
+  pressMoved = false;
+  pressTimer = setTimeout(() => {
+    if (pressMoved || !pressCard) return;
+    suppressClickUntil = Date.now() + 500;
+    enterSelectMode(pressCard.dataset.key);
+  }, 500);
+});
+
+listEl.addEventListener('pointermove', e => {
+  if (!pressTimer || !pressXY) return;
+  if (Math.abs(e.clientX - pressXY[0]) > 10 || Math.abs(e.clientY - pressXY[1]) > 10) {
+    clearPress();
+  }
+});
+
+listEl.addEventListener('pointerup', () => clearPress());
+listEl.addEventListener('pointercancel', () => clearPress());
+
+// Evita el menú contextual que algunos navegadores móviles abren al sostener
+listEl.addEventListener('contextmenu', e => {
+  if (isAdmin && e.target.closest('.card')) e.preventDefault();
+});
+
+listEl.addEventListener('dblclick', e => {
+  if (isAdmin && e.target.closest('.card')) e.preventDefault();
+});
+
+listEl.addEventListener('click', e => {
+  if (Date.now() < suppressClickUntil) {
+    suppressClickUntil = 0;
+    e.preventDefault();
+    e.stopPropagation();
+    return;
+  }
+  const card = e.target.closest('.card');
+  if (!card) return;
+  if (!isAdmin || !selectMode) {
+    if (e.target.closest('.card-check')) { e.preventDefault(); return; }
+    openDetail(parseInt(card.dataset.idx, 10));
+    return;
+  }
+  if (e.target.closest('.card-check')) {
+    e.stopPropagation();
+    toggleSelection(card.dataset.key);
+    return;
+  }
+  toggleSelection(card.dataset.key);
+});
+
+listEl.addEventListener('keydown', e => {
+  if (e.key === 'Escape') {
+    if (selectMode) exitSelectMode();
+    return;
+  }
+  const t = e.target;
+  if (!t || !t.classList || !t.classList.contains('card')) return;
+  if (e.key !== 'Enter' && e.key !== ' ') return;
+  e.preventDefault();
+  if (!isAdmin || !selectMode) {
+    openDetail(parseInt(t.dataset.idx, 10));
+    return;
+  }
+  if (e.target.closest('.card-check')) { toggleSelection(t.dataset.key); return; }
+  toggleSelection(t.dataset.key);
+});
 
 // ---- VENTANA DE DETALLE DEL PRODUCTO ----
 function openDetail(idx) {
@@ -1853,6 +2133,7 @@ async function confirmDelete() {
   const idx = pendingDeleteIdx;
   if (idx < 0) { closeModalById('confirmDeleteModal'); return; }
   const p = db[idx];
+  if (p) selectedIds.delete(productKey(p));
   if (p && p.id != null) {
     const { error } = await insforge.database.from('products').delete().eq('id', p.id);
     if (error) { showToast('❌ Error al eliminar: ' + error.message); return; }
@@ -1864,6 +2145,48 @@ async function confirmDelete() {
   closeModalById('detailModal');
   showToast('🗑️ Producto eliminado');
   render();
+  updateSelectBar();
+}
+
+// ---- BORRADO MÚLTIPLE ----
+function openDeleteBulk() {
+  if (!isAdmin || !selectedIds.size) return;
+  const items = db.filter(p => selectedIds.has(productKey(p)));
+  const list = document.getElementById('bulkList');
+  list.innerHTML = items.map(p =>
+    `<div style="display:flex;align-items:center;gap:8px;padding:7px 10px;background:var(--surface);border:1.5px solid var(--border);border-radius:8px">
+      <span class="modal-sku-badge" style="font-size:14px;padding:2px 10px;flex-shrink:0">${escapeAttr(formatSku(p.sku))}</span>
+      <span style="flex:1;min-width:0;font-size:13px;font-family:'Barlow Condensed',sans-serif;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${escapeAttr(p.desc || 'Sin descripción')}</span>
+    </div>`).join('');
+  document.getElementById('bulkCount').textContent = items.length;
+  document.getElementById('confirmDeleteBulkModal').classList.add('open');
+}
+
+function cancelDeleteBulk() {
+  closeModalById('confirmDeleteBulkModal');
+}
+
+async function confirmDeleteBulk() {
+  const items = db.filter(p => selectedIds.has(productKey(p)));
+  if (!items.length) { cancelDeleteBulk(); exitSelectMode(); return; }
+  const toDeleteDb = items.filter(p => p.id != null);
+  for (const p of toDeleteDb) {
+    const { error } = await insforge.database.from('products').delete().eq('id', p.id);
+    if (error) {
+      showToast('❌ Error al eliminar: ' + error.message);
+      cancelDeleteBulk();
+      return;
+    }
+  }
+  const keys = new Set(items.map(productKey));
+  db = db.filter(p => !keys.has(productKey(p)));
+  saveData();
+  selectedIds.clear();
+  selectMode = false;
+  cancelDeleteBulk();
+  showToast('🗑 ' + items.length + ' productos eliminados');
+  render();
+  updateSelectBar();
 }
 
 function showToast(msg) {
